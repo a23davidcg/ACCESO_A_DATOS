@@ -6,6 +6,23 @@ import java.nio.file.StandardCopyOption;
 import java.util.stream.Stream;
 
 public class Copia_Todos_Os_Archivos_Dun_Directorio {
+
+    public static void copyPath (Path origen , final Path destino){
+        try {
+            if (!Files.isDirectory(origen) && origen.getFileName().toString().endsWith(".java")) {
+                Files.copy(origen, destino.resolve(origen.getFileName()), StandardCopyOption.REPLACE_EXISTING);
+            } else if (Files.isDirectory(origen) ){
+                try (Stream<Path> s = Files.list(origen)) {
+                    s.forEach(p -> copyPath(p, destino.resolve(p.getFileName())));
+                }
+
+            }
+
+        } catch (IOException e) {
+            System.out.println(e.getMessage());
+        }
+    }
+
     public static void main(String[] args) {
 
         /*Realiza un programa que copie todos los archivos *.java (incluidos subdirectorios) en un directorio destinio.
@@ -24,23 +41,7 @@ Filtra de modo que el nombre del archivo termine en .java*/
 
 
 
-        public static void copyPath (Path origen , final Path destino){
-            try {
-                if (!Files.isDirectory(origen) && origen.getFileName().toString().endsWith(".java")) {
-                    Files.copy(origen, destino.resolve(origen.getFileName())); //resolve, concatena o path
-                    StandardCopyOption.REPLACE_EXISTING;
 
-                } else if (Files.isDirectory(origen) {
-                    try (Stream<Path> s = Files.list(origen)) {
-                        s.forEach(p -> copyPath(p, destino.resolve(p.getFileName())));
-                    }
-
-                }
-
-            } catch (IOException e) {
-                e.printStackTrace();
-
-            }
 
         }
 
@@ -57,5 +58,5 @@ Filtra de modo que el nombre del archivo termine en .java*/
 //        }
 //        }
 //        }
-    }
+
     }
