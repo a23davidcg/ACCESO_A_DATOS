@@ -7,6 +7,8 @@ import java.util.stream.Stream;
 
 public class Copia_Todos_Os_Archivos_Dun_Directorio {
 
+    //Creamos o metodo para copiar todos os archivos .java dun directorio noutro
+
     public static void copyPath (Path origen , final Path destino){
         try {
             if (!Files.isDirectory(origen) && origen.getFileName().toString().endsWith(".java")) {
