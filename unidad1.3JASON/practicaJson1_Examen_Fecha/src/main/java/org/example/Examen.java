@@ -10,7 +10,11 @@ public class Examen {
 
     private String materia;
     private LocalDateTime fecha;
-    List<String> participantes = new ArrayList<>();
+    private List<String> participantes = new ArrayList<>();
+
+    public examen (){
+
+    }
 
 
     public String getMateria() {
@@ -42,7 +46,7 @@ public class Examen {
 
     public Examen(String materia, String fecha, List<String> participantes) {
         this.materia = materia;
-        //this.fecha = fecha;
+        this.fecha = fecha;
         this.participantes = participantes;
     }
 
