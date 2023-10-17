@@ -1,1 +1,12 @@
-["Juan","Pedro","Maria","Jose","Alfredo"]
+
+{
+    "fecha": "2023-11-12T09:45:00",
+    "materia": "Acceso a Datos",
+    "participantes": [
+        "Gabriela Mistral",
+        "Silvina Ocampo",
+        "Juana de Ibarbourou",
+        "Carmen Conde",
+        "Claribel Alegría"
+    ]
+}
