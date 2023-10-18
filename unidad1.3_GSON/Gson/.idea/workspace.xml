@@ -5,9 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b678edd7-b362-4141-81f3-966ce73d88fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/src/main/java/org/example/Examen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/src/main/java/org/example/Examen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/src/main/java/org/example/accesoADatos.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/src/main/java/org/example/accesoADatos.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/.idea/unidad1.3JASON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/01.03 JSON en Java __ Recursos didácticos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/Codigo_Que_Nos_Permite_Leer_JSON/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/Codigo_Que_Nos_Permite_Leer_JSON/Poeta_JS.JS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/Codigo_Que_Nos_Permite_Leer_JSON/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/Codigo_Que_Nos_Permite_Leer_JSON/proba.JSON5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/Codigo_Que_Nos_Permite_Leer_JSON/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/EquiposBaloncesto/Equipo.JSON5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/src/main/java/org/example/Examen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha/src/main/java/org/example/accesoADatos.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha_etc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha_etc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha_etc/.idea/practicaJson1_Examen_Fecha_etc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha_etc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JASON/practicaJson1_Examen_Fecha_etc/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +45,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2WsjVDkFvG5ufX05Gr37OPbPGkV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +57,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/David/Desktop/DAM 2/AD/ACCESO_A_DATOS/unidad1.3JSON/practicaJson1_Examen_Fecha"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
