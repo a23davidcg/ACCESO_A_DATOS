@@ -30,7 +30,6 @@ public class Main {
         gsonBuilder.excludeFieldsWithModifiers();
 
         Gson  gson1 = gsonBuilder.create();
-
         String exameJSON = gson1.toJson(examen);
 
         try {
