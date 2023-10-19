@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b678edd7-b362-4141-81f3-966ce73d88fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../unidad1.3JSON/practicaJson1_Examen_Fecha/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../unidad1.3JSON/practicaJson1_Examen_Fecha/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4e9eedce-02d8-4ef4-a619-7d03b3c0d875" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2WsjVDkFvG5ufX05Gr37OPbPGkV" />
+  <component name="ProjectId" id="2WhUgmoRaU5I7rBJm21IHnoXhte" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,17 +28,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/MaquinasVirtuais/AD/unidad1.3JSON/practicaJson1_Examen_Fecha"
+    "last_opened_file_path": "D:/MaquinasVirtuais/AD/unidad1.3JASON/practicaJson1_Examen_Fecha_etc"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b678edd7-b362-4141-81f3-966ce73d88fd" name="Changes" comment="" />
-      <created>1697528204428</created>
+      <changelist id="4e9eedce-02d8-4ef4-a619-7d03b3c0d875" name="Changes" comment="" />
+      <created>1697184421135</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697528204428</updated>
+      <updated>1697184421135</updated>
     </task>
     <servers />
   </component>
