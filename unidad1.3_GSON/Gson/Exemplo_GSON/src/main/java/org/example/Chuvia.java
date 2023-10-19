@@ -1,13 +1,22 @@
 package org.example;
 
+import com.google.gson.annotations.Expose;
+
+import java.io.Serializable;
+
 public class Chuvia {
+
+    @Expose(serialize = true, deserialize = true)
     private double cantidade;
+
+    //private double cantidade;
     private String nome;
 
     public Chuvia(double cantidade, String nome) {
         this.cantidade = cantidade;
         this.nome = nome;
     }
+
 
 
 
