@@ -1,0 +1,36 @@
+{
+  "Clasificacion": [
+    {
+      "Equipo": "Real Madrid",
+      "Victorias": "4",
+      "Derrotas ": "0",
+      "Favor": "374",
+      "Contra": "311",
+      "Diferencia": "63"
+    },
+    {
+      "Equipo": "Baskonia",
+      "Victorias": "3",
+      "Derrotas ": "1",
+      "Favor": "346",
+      "Contra": "320",
+      "Diferencia": "26"
+    },
+    {
+      "Equipo": "Bàsket Girona",
+      "Victorias": "3",
+      "Derrotas ": "1",
+      "Favor": "353",
+      "Contra": "333",
+      "Diferencia": "20"
+    },
+    {
+      "Equipo": "UCAM Murcia",
+      "Victorias": "3",
+      "Derrotas ": "1",
+      "Favor": "340",
+      "Contra": "322",
+      "Diferencia": "18"
+    }
+  ]
+}

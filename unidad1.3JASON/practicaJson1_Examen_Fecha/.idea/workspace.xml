@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ccc265-4afb-4229-ba5c-336395cae15d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Examen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Examen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accesoADatos.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accesoADatos.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/exercicioConGson_Con_Date/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JSON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../unidad1.3JSON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/exercicioConGson_Con_Date/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/exercicioConGson_Con_Date/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/gson/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/gson/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/MaquinasVirtuais/AD/unidad1.3JASON/practicaJson1_Examen_Fecha/src/main/java/org/example",
+    "last_opened_file_path": "C:/Users/David/Desktop/DAM 2/AD/ACCESO_A_DATOS/unidad1.3JASON/practicaJson1_Examen_Fecha",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"

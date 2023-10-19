@@ -34,21 +34,10 @@ public class Main {
 
         try {
 //            BufferedWriter bw = Files.newBufferedWriter(Paths.get("AccesoADatos2.json"));
-            Files.writeString(Paths.get("AccesoADatos2.json"), exameJSON);
+            Files.writeString(Paths.get("AccesoADatos.json"), exameJSON);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-
-//        BufferedReader br = null;
-//        BufferedWriter bw = null;
-//
-//        InputStreamReader in = null;
-//        FileWriter out = null;
-//
-//        try {
-//            in = new InputStreamReader(examen);
-//            br = new BufferedReader(in);
-//        }
 
 
 
