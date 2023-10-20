@@ -6,7 +6,7 @@ public class Main {
         Clasificacion clasificacion = new Clasificacion("Barcelona", 10, 5);
 
         //Metodo que nos garda a clasificacion no destino que xa se especificou no metodo
-        clasificacionDAO.saveToJSON(clasificacion);
+        clasificacionDAO.saveToJson(clasificacion);
 
        //Metodo que devolve a clasificacion dende o ficheiro JSONFILE
         Clasificacion clasificacion1 = clasificacionDAO.getFromJSON();

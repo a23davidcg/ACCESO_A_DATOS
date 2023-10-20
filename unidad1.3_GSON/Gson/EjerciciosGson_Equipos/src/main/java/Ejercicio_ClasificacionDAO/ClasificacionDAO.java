@@ -4,15 +4,14 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 import java.io.*;
-import java.lang.reflect.Array;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class ClasificacionDAO {
 
 
-    private static final String OBJECT_FILE = "clasificacion.dat";
-    private static final String JSON_FILE = "Clasificacion.json";
+    public static final String OBJECT_FILE = "clasificacion.dat";
+    public static final String JSON_FILE = "Clasificacion.json";
 
 
     private Gson gson;
@@ -52,8 +51,8 @@ public class ClasificacionDAO {
     }
 
     // Método para guardar la clasificación en el fichero JSON_FILE
-    public void saveToJSON(Clasificacion c) { //Garda o archivo no ficheiro que xa temos dentro deo JSON_FILE
-        this.saveToJSON(c, JSON_FILE);
+    public void saveToJson(Clasificacion c) { //Garda o archivo no ficheiro que xa temos dentro deo JSON_FILE
+        saveToJSon(c, JSON_FILE);
     }
 
     // Método para obtener la clasificación desde el fichero OBJECT_FILE
