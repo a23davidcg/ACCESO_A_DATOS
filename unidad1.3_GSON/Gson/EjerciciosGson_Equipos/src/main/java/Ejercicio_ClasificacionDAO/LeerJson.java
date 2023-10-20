@@ -19,10 +19,9 @@ public class LeerJson {
         Gson gson = gsonBuilder.create();
 
 
-
         try {
-        BufferedReader reader = new BufferedReader((Reader) Path.of("C:\\Users\\David\\Desktop\\DAM 2\\AD\\ACCESO_A_DATOS\\unidad1.3_GSON\\Gson\\EjerciciosGson\\Equipo.JSON5"));
-             Clasificacion clasificacion = gson.fromJson(reader, Clasificacion.class);
+            BufferedReader reader = new BufferedReader((Reader) Path.of("C:\\Users\\David\\Desktop\\DAM 2\\AD\\ACCESO_A_DATOS\\unidad1.3_GSON\\Gson\\EjerciciosGson\\Equipo.JSON5"));
+            Clasificacion clasificacion = gson.fromJson(reader, Clasificacion.class);
         } catch (JsonSyntaxException e) {
             throw new RuntimeException(e);
         } catch (JsonIOException e) {
@@ -31,4 +30,4 @@ public class LeerJson {
 
 
     }
-    }
+}
