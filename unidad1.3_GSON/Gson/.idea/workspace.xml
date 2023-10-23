@@ -6,23 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b678edd7-b362-4141-81f3-966ce73d88fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/AccesoADatos.json" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/AccesoADatos.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/AccesoADatos2.json" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/AccesoADatos2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/Clasificacion.json" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/Clasificacion.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/Equipo.JSON5" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/Equipo.JSON5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/clasificacion.dat" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/clasificacion.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/src/main/java/Ejercicio_ClasificacionDAO/Clasificacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/Clasificacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/src/main/java/Ejercicio_ClasificacionDAO/LeerJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/LeerJson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/src/main/java/Ejercicio_ClasificacionDAO/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/src/main/java/org/example/Examen.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/src/main/java/org/example/Examen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

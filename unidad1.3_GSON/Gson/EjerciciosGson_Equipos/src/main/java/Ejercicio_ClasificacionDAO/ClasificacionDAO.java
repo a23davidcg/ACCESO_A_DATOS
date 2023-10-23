@@ -52,14 +52,18 @@ public class ClasificacionDAO {
 
     // Método para guardar la clasificación en el fichero JSON_FILE
     public void saveToJson(Clasificacion c) { //Garda o archivo no ficheiro que xa temos dentro deo JSON_FILE
+
         saveToJSon(c, JSON_FILE);
     }
 
     // Método para obtener la clasificación desde el fichero OBJECT_FILE
     public Clasificacion getFromObject() {
 
+        //try (FileInputStream fis = new FileInputStream(OBJECT_FILE);
+        //           new BufferedInputStream (ObjectInputStream ois = new ObjectInputStream(fis));)
+
         try (FileInputStream fis = new FileInputStream(OBJECT_FILE);
-             ObjectInputStream ois = new ObjectInputStream(fis);) {
+           ObjectInputStream ois = new ObjectInputStream(fis);) { //Pregutnar a david si facelo con buffered e mais eficiente que facelo sen eles.
 
             Object read = ois.readObject();
             return (Clasificacion) read;
