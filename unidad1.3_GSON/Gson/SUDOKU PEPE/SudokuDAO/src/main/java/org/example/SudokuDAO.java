@@ -41,7 +41,11 @@ public class SudokuDAO {
     //Creamos o metodo para gardar o sudoku como un obxeto usaNDO java.NIO2
 
     public void saveToObject(Sudoku c, String ruta) {
-        try (
+
+        String json = "";
+        Files.write(Paths.get(ruta), json.getBytes() );
+
+      /*  try (
                 FileOutputStream fos = new FileOutputStream(String.valueOf(Paths.get(ruta)));
                 ObjectOutputStream oos = new ObjectOutputStream(fos);) {
 
@@ -51,7 +55,7 @@ public class SudokuDAO {
 
         } catch (IOException e) {
             System.out.println("Error ao escribir no ficheiro");
-        }
+        }*/
     }
 //Creamos o metodo que nos permite gardar o sudoku nun ficheiro json mediante un path que lle metamos nos
     public void saveToJson(Sudoku c, String file) {
@@ -86,8 +90,9 @@ public class SudokuDAO {
 
 
 
-    public void getFromJson() {
-        getFromJSON(JSON_FFILE);
+    public Sudoku getFromJSON() {
+        return getFromJSON(JSON_FFILE);
+
 
     }
 }
