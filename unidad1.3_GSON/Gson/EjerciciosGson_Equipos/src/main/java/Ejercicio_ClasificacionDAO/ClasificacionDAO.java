@@ -24,7 +24,8 @@ public class ClasificacionDAO {
 
     // Método para guardar la clasificación en el fichero OBJECT_FILE
     public void saveToObject(Clasificacion c) {
-        try (FileOutputStream fos = new FileOutputStream(OBJECT_FILE);
+        try (BufferedOutputStream fos = new BufferedOutputStream(
+                new FileOutputStream(OBJECT_FILE)); //TODO: revisar
              ObjectOutputStream oos = new ObjectOutputStream(fos);) {
 
             oos.writeObject(c);
