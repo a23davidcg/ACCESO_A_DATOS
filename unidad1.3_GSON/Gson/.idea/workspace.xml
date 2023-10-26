@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b678edd7-b362-4141-81f3-966ce73d88fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/MaquinasVirtuais/AD/unidad1.3_GSON/Gson/EjerciciosGson_Equipos",
+    "last_opened_file_path": "D:/MaquinasVirtuais/AD/ACCESO_A_DATOS/unidad1.3_GSON/Gson",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
