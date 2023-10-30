@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec88795-d4cb-4daa-a3ef-f1b583c48e2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../TypeAdapter/TypeAdapterExercicio/src/main/java/org/example/Examen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Gson/Leer_Api_Renombrar/Ejercicio_API_MeteoGalicia/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Gson/Leer_Api_Renombrar/Ejercicio_API_MeteoGalicia/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Gson/Leer_Api_Renombrar/Ejercicio_API_MeteoGalicia/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Gson/Leer_Api_Renombrar/Ejercicio_API_MeteoGalicia/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Gson/Leer_Api_Renombrar/Ejercicio_API_MeteoGalicia/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Gson/Leer_Api_Renombrar/Ejercicio_API_MeteoGalicia/jsonCPrazo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Gson/Leer_Api_Renombrar/Ejercicio_API_MeteoGalicia/src/main/java/org/example/AppPrediccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Gson/Leer_Api_Renombrar/Ejercicio_API_MeteoGalicia/src/main/java/org/example/Prediccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Gson/Leer_Api_Renombrar/Ejercicio_API_MeteoGalicia/src/main/java/org/example/PrediccionConcello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Gson/Leer_Api_Renombrar/Ejercicio_API_MeteoGalicia/src/main/java/org/example/PrediccionDiaConcello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TypeAdapter/TypeAdapterExercicio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TypeAdapter/TypeAdapterExercicio/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
