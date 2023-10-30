@@ -1,0 +1,13 @@
+{
+  "materia": "Matemáticas",
+  "fecha": {
+    "Anio": 2023,
+    "Mes": 10,
+    "Dia": 30
+  },
+  "estudiantes": [
+    "Estudiante 1",
+    "Estudiante 2",
+    "Estudiante 3"
+  ]
+}
