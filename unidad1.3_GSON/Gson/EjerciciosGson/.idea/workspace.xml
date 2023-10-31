@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29a3e151-fa94-412f-b9b8-ba1609de58c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Equipo.JSON5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clasificacion.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio_ClasificacionDAO/Clasificacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio_ClasificacionDAO/LeerJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio_ClasificacionDAO/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercicioConGson_Con_Date/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3JASON/practicaJson1_Examen_Fecha/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3JASON/practicaJson1_Examen_Fecha/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3JSON/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3JSON/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3JSON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3JSON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccesoADatos2.json" beforeDir="false" afterPath="$PROJECT_DIR$/AccesoADatos2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AccesoADatos.json" beforeDir="false" afterPath="$PROJECT_DIR$/Clasificacion.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exemplo_GSON/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exemplo_GSON/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercicioConGson_Con_Date/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioConGson_Con_Date/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gson/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gson/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JsonReader/ClasificacionJsonReader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JsonReader/ClasificacionJsonReader/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2WzNkaA5bS98LbiTdafOVzVn4WH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/David/Desktop/DAM 2/TutorialJAva/tutorialjava/Fluxos/Fluxos_Probas2/Fluxos2_LecturaConsola_EscrituraArchivo",
+    "last_opened_file_path": "D:/MaquinasVirtuais/AD/ACCESO_A_DATOS/unidad1.3_GSON/Boletin_01_03",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",

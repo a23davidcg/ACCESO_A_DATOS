@@ -44,6 +44,7 @@ public class Examen_Gson {
 
         } catch (IOException e) {
             throw new RuntimeException(e);
+
         }
     }
 }
