@@ -1,11 +1,11 @@
 package Ejercicio_6_Clasificacion_DAO;
 
-public class Clasificiacion {
+public class Clasificacion {
     private String nome;
     private int puntos;
     private int partidosJugados;
 
-    public Clasificiacion(String nome, int puntos, int partidosJugados) {
+    public Clasificacion(String nome, int puntos, int partidosJugados) {
         this.nome = nome;
         this.puntos = puntos;
         this.partidosJugados = partidosJugados;
@@ -33,14 +33,5 @@ public class Clasificiacion {
 
     public void setPartidosJugados(int partidosJugados) {
         this.partidosJugados = partidosJugados;
-    }
-
-    @Override
-    public String toString() {
-        return "Clasificiacion{" +
-                "nome='" + nome + '\'' +
-                ", puntos=" + puntos +
-                ", partidosJugados=" + partidosJugados +
-                '}';
     }
 }

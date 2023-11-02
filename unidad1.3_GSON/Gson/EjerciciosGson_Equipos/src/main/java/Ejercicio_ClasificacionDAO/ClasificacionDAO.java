@@ -23,7 +23,17 @@ public class ClasificacionDAO {
     }
 
     // Método para guardar la clasificación en el fichero OBJECT_FILE
-    public void saveToObject(Clasificacion c) {
+    public void saveToObject(Clasificacion c) throws IOException {
+
+        File file = new File(OBJECT_FILE);
+
+        if (!file.exists()) {
+
+            file.createNewFile();
+
+        }
+
+
         try (BufferedOutputStream fos = new BufferedOutputStream(
                 new FileOutputStream(OBJECT_FILE)); //TODO: revisar
              ObjectOutputStream oos = new ObjectOutputStream(fos);) {
@@ -53,7 +63,6 @@ public class ClasificacionDAO {
 
     // Método para guardar la clasificación en el fichero JSON_FILE
     public void saveToJson(Clasificacion c) { //Garda o archivo no ficheiro que xa temos dentro deo JSON_FILE
-
         saveToJSon(c, JSON_FILE);
     }
 

@@ -1,4 +1,7 @@
 package Ejercicio_ClasificacionDAO;
+
+import java.io.IOException;
+
 public class Main {
     public static void main(String[] args) {
         ClasificacionDAO clasificacionDAO = new ClasificacionDAO();
@@ -19,12 +22,16 @@ public class Main {
 
         //Metodo para gardar a clasificacion nun objeto
 
-        clasificacionDAO.saveToObject(clasificacion);
+        try {
+            clasificacionDAO.saveToObject(clasificacion);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
 
 
         //Metodo para obtener la clasificacion desde el fichero json en concreto
 
-        Clasificacion clasificacion2 = clasificacionDAO.getFromJSON("OMeuDestino");
+        Clasificacion clasificacion2 = clasificacionDAO.getFromJSON("OMeuDestino.json");
         System.out.println(clasificacion2);
 
         //metodo para obtener la clasificacion desde el archivo objeto

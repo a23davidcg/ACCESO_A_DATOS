@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1234567,
+    "name": "Pelotas de tenis",
+    "precio": 15.24
+  },
+  {
+    "id": 654321,
+    "name": "Pelotas de golf",
+    "precio": 23.45
+  },
+  {
+    "id": 3456789,
+    "name": "Pelotas de futbol",
+    "precio": 34.56
+  }
+]
