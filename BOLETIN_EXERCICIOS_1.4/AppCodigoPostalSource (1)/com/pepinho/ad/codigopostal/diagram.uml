@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-145.35703319096166" y="-48.44716260055648">com.pepinho.programacion.json.adboletin0103.codigopostal.view.IVistaCodigoPostal</node>
+    <node x="-145.35703319096166" y="-104.92993448673175">com.pepinho.programacion.json.adboletin0103.codigopostal.view.VistaTextoCodigoPostal</node>
+    <node x="-498.7693594260619" y="175.3630273607739">com.pepinho.programacion.json.adboletin0103.codigopostal.model.CodigoPostalTypeAdapter</node>
+    <node x="-404.7291479540302" y="-162.739418710781">com.pepinho.programacion.json.adboletin0103.codigopostal.control.ICodigoPostalController</node>
+    <node x="-680.0746567262754" y="51.70034442375775">com.pepinho.programacion.json.adboletin0103.codigopostal.model.CodigoPostalDAO</node>
+    <node x="-708.7702787634752" y="271.3703751745202">com.pepinho.programacion.json.adboletin0103.codigopostal.model.Lugar</node>
+    <node x="-724.1036120968084" y="-56.799037540917766">com.pepinho.programacion.json.adboletin0103.codigopostal.model.ICodigoPostalDAO</node>
+    <node x="-749.1036120968084" y="175.3630273607739">com.pepinho.programacion.json.adboletin0103.codigopostal.model.CodigoPostal</node>
+    <node x="-462.0317396463363" y="-48.44716260055648">com.pepinho.programacion.json.adboletin0103.codigopostal.control.CodigoPostalController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.pepinho.programacion.json.adboletin0103.codigopostal.model.CodigoPostalTypeAdapter" target="com.pepinho.programacion.json.adboletin0103.codigopostal.model.Lugar" relationship="CREATE">
+      <point x="-21.06397390727136" y="14.136972639226087" />
+      <point x="-432.9503365949244" y="204.0" />
+      <point x="-432.9503365949244" y="285.8703751745202" />
+      <point x="-627.8333333333333" y="285.8703751745202" />
+      <point x="37.93694543014192" y="4.129624825479823" />
+    </edge>
+    <edge source="com.pepinho.programacion.json.adboletin0103.codigopostal.model.CodigoPostalDAO" target="com.pepinho.programacion.json.adboletin0103.codigopostal.model.ICodigoPostalDAO" relationship="REALIZATION">
+      <point x="-42.028955370533026" y="-14.5" />
+      <point x="-639.1036120968084" y="8.950653441419991" />
+      <point x="-639.1666666666666" y="8.950653441419991" />
+      <point x="-0.06305456985819546" y="14.299037540917766" />
+    </edge>
+    <edge source="com.pepinho.programacion.json.adboletin0103.codigopostal.control.CodigoPostalController" target="com.pepinho.programacion.json.adboletin0103.codigopostal.control.ICodigoPostalController" relationship="REALIZATION">
+      <point x="59.302591692306066" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="com.pepinho.programacion.json.adboletin0103.codigopostal.model.CodigoPostal" target="com.pepinho.programacion.json.adboletin0103.codigopostal.model.Lugar" relationship="TO_MANY">
+      <point x="-46.63697302515175" y="-14.5" />
+      <point x="-665.7702787634752" y="175.3630273607739" />
+      <point x="0.0" y="14.500000000000007" />
+    </edge>
+    <edge source="com.pepinho.programacion.json.adboletin0103.codigopostal.model.CodigoPostalTypeAdapter" target="com.pepinho.programacion.json.adboletin0103.codigopostal.model.CodigoPostal" relationship="CREATE">
+      <point x="0.0" y="14.5" />
+      <point x="-388.7693594260619" y="189.8630273607739" />
+      <point x="68.0" y="0.0" />
+    </edge>
+    <edge source="com.pepinho.programacion.json.adboletin0103.codigopostal.model.CodigoPostalDAO" target="com.pepinho.programacion.json.adboletin0103.codigopostal.model.CodigoPostalTypeAdapter" relationship="CREATE">
+      <point x="0.7068845850483285" y="14.5" />
+      <point x="-596.3677721412271" y="125.03168589226583" />
+      <point x="-399.2693594260619" y="125.03168589226583" />
+      <point x="-399.2693594260619" y="150.19735662651988" />
+      <point x="-399.16666666666663" y="150.19735662651988" />
+      <point x="-10.397307240604732" y="-8.529694027440598" />
+    </edge>
+    <edge source="com.pepinho.programacion.json.adboletin0103.codigopostal.view.VistaTextoCodigoPostal" target="com.pepinho.programacion.json.adboletin0103.codigopostal.control.ICodigoPostalController" relationship="TO_ONE">
+      <point x="101.0" y="0.0" />
+      <point x="-48.52369985762829" y="-90.42993448673175" />
+      <point x="-48.52369985762829" y="-148.239418710781" />
+      <point x="102.0" y="0.0" />
+    </edge>
+    <edge source="com.pepinho.programacion.json.adboletin0103.codigopostal.control.CodigoPostalController" target="com.pepinho.programacion.json.adboletin0103.codigopostal.model.ICodigoPostalDAO" relationship="TO_ONE">
+      <point x="-100.0" y="-7.0" />
+      <point x="85.0" y="1.3518749403612844" />
+    </edge>
+    <edge source="com.pepinho.programacion.json.adboletin0103.codigopostal.control.CodigoPostalController" target="com.pepinho.programacion.json.adboletin0103.codigopostal.model.CodigoPostalDAO" relationship="CREATE">
+      <point x="-92.5" y="14.5" />
+      <point x="-454.5317396463363" y="13.126590911600633" />
+      <point x="-559.6301523615015" y="13.126590911600633" />
+      <point x="37.444504364773934" y="-14.5" />
+    </edge>
+    <edge source="com.pepinho.programacion.json.adboletin0103.codigopostal.view.VistaTextoCodigoPostal" target="com.pepinho.programacion.json.adboletin0103.codigopostal.view.IVistaCodigoPostal" relationship="REALIZATION">
+      <point x="60.20164808643028" y="-14.5" />
+      <point x="15.844614895468624" y="-83.55924151518794" />
+      <point x="-54.82205177119789" y="-83.55924151518794" />
+      <point x="-54.82205177119789" y="-19.44716260055648" />
+      <point x="17.823529411764714" y="14.5" />
+    </edge>
+    <edge source="com.pepinho.programacion.json.adboletin0103.codigopostal.control.CodigoPostalController" target="com.pepinho.programacion.json.adboletin0103.codigopostal.view.IVistaCodigoPostal" relationship="TO_ONE">
+      <point x="100.0" y="0.0" />
+      <point x="-44.35703319096166" y="-33.94716260055648" />
+      <point x="0.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="true" x="-328.5" y="120.66666666666669" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>packageLocal</VISIBILITY>
+</Diagram>
+
