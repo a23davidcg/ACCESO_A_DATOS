@@ -5,39 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07f7ddfc-fe22-4fd0-a47a-e27e89150b27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Boletin_1.1/Ejercicio_1.1/Original.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_8_Examen_LocalDate_Serializer_Deserializer/Examen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_8_Examen_LocalDate_Serializer_Deserializer/ExamenDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_8_Examen_LocalDate_Serializer_Deserializer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/Persona.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/Productos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_1_SerializacionBasica/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_2_Producto/MainProducto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_2_Producto/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_3_Libro/Libro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../EXERCICIOS_REPASO_GSON/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../EXERCICIOS_REPASO_GSON/.idea/EXERCICIOS_REPASO_GSON.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../EXERCICIOS_REPASO_GSON/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../EXERCICIOS_REPASO_GSON/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../EXERCICIOS_REPASO_GSON/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EXERCICIO_1_COMPLETO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EXERCICIO_1_COMPLETO/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/ClasificacionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/ClasificacionDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/Clasificiacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/Clasificacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/MainDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/MainDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/LeerAPICodigosPostales/LeerAPICodigosPostales/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/LeerAPICodigosPostales/LeerAPICodigosPostales/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProbasExercicio1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio_2_EstadisticasArchivo/EstadisticaFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio_3_EditorTexto/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio_3_EditorTexto/Editor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio_2_EstadisticasArchivo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2XdHEzJ9qRcJzwlr9mc8jwtqfg3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,9 +40,29 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/DAM 2/PSP/PSP/threads/deadThread"
+    "last_opened_file_path": "D:/DAM 2/AD/ACCESO_A_DATOS/unidad1.1/RepasoIO/Repaso_IO"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio_2_EstadisticasArchivo.Main" />
+      <module name="Repaso_IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio_2_EstadisticasArchivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
