@@ -6,12 +6,16 @@ import java.io.InputStreamReader;
 
 public class Teclado {
 
+    //Para non ter que facer o buffered en ccada un dos metodos
+
     private BufferedReader bufferedReader() {
         BufferedReader bufferedReader = new BufferedReader(
                 new InputStreamReader(System.in));
 
         return bufferedReader;
     }
+
+    //METODOS
 
     public String lerString() {
         try (BufferedReader Lector = this.bufferedReader()) {
@@ -24,73 +28,86 @@ public class Teclado {
     }
 
     public char lerChar() {
-        try {
+
+        try (BufferedReader Lector = this.bufferedReader()) {
+            return Lector.readLine().charAt(0);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+
+        /*try {
             return Lector.readLine().charAt(0);
         } catch (IOException e) {
             throw new RuntimeException(e);
 
-        }
+        }*/
 
     }
 
-    public static int lerInt() {
-        try {
+    public int lerInt() {
+
+        try (BufferedReader Lector = this.bufferedReader()) {
             return Integer.parseInt(Lector.readLine());
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+//        try {
+//            return Integer.parseInt(Lector.readLine());
+//        } catch (IOException e) {
+//            throw new RuntimeException(e);
+//        }
 
     }
 
-    public static long lerLong() {
+    public long lerLong() {
 
-        try {
+        try (BufferedReader Lector = this.bufferedReader()) {
             return Long.parseLong(Lector.readLine());
+
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-
     }
 
-    public static boolean lerBoolean() {
+    public boolean lerBoolean() {
 
-        try {
+        try (BufferedReader Lector = this.bufferedReader()) {
             return Boolean.parseBoolean(Lector.readLine());
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
-    public static float leerFloat() {
+    public float leerFloat() {
 
-        try {
+        try (BufferedReader Lector = this.bufferedReader()) {
             return Float.parseFloat(Lector.readLine());
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
-    public static double leerDouble() {
+    public double leerDouble() {
 
-        try {
+        try (BufferedReader Lector = this.bufferedReader()) {
             return Double.parseDouble(Lector.readLine());
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
-    public static byte lerByte() {
+    public byte lerByte() {
 
-        try {
+        try (BufferedReader Lector = this.bufferedReader()) {
             return Byte.parseByte(Lector.readLine());
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
-    public static short lerShort() {
+    public short lerShort() {
 
-        try {
+        try (BufferedReader Lector = this.bufferedReader()) {
             return Short.parseShort(Lector.readLine());
         } catch (IOException e) {
             throw new RuntimeException(e);

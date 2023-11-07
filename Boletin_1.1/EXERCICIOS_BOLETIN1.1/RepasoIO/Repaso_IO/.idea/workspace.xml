@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07f7ddfc-fe22-4fd0-a47a-e27e89150b27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../unidad1.1/RepasoIO/Repaso_IO/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../unidad1.1/RepasoIO/Repaso_IO/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../unidad1.1/RepasoIO/Repaso_IO/target/classes/Ejercicio_2_EstadisticasArchivo/EstadisticaFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../unidad1.1/RepasoIO/Repaso_IO/target/classes/Ejercicio_2_EstadisticasArchivo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../unidad1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../unidad1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../unidad1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../unidad1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../unidad1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../unidad1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/ProbasExercicio1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../unidad1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../unidad1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/src/main/java/Ejercicio_2_EstadisticasArchivo/EstadisticaFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../unidad1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/src/main/java/Ejercicio_2_EstadisticasArchivo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../unidad1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/src/main/java/Ejercicio_3_EditorTexto/Documento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../unidad1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/src/main/java/Ejercicio_3_EditorTexto/Editor.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/AppConsultaChiste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/ChisteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/Controlador/ChisteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/Controlador/ControladorChiste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/IControladorChiste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/VistaChiste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/VistaChisteSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/VistaChisteTexto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/DAM 2/AD/ACCESO_A_DATOS/Boletin_1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO"
+    "last_opened_file_path": "D:/MaquinasVirtuais/AD/ACCESO_A_DATOS/Boletin_1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO"
   }
 }]]></component>
   <component name="RunManager" selected="Application.MainTeclado">

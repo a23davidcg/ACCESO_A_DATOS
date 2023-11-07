@@ -50,7 +50,7 @@ public class Documento {
         }
     }
 
-    public String readFileNIO(){
+    public String readFileNIO() {
         if (this.exists()) {
             String contenido = null;
             try {
@@ -69,14 +69,45 @@ public class Documento {
 
     public void writeFromString(String cadena) {
         if (this.exists()) {
-            try(FileWriter fw = new FileWriter(this.arquivo);
-                BufferedWriter bw = new BufferedWriter(fw)){
+            try (FileWriter fw = new FileWriter(this.arquivo);
+                 BufferedWriter bw = new BufferedWriter(fw)) {
 
                 bw.write(cadena);
+
             } catch (IOException e) {
                 throw new RuntimeException(e);
             }
         }
+    }
+
+    public void writeFromStringPrintWriter(String Cadena) {
+
+        try (PrintWriter pw = new PrintWriter(this.arquivo);
+             BufferedWriter bw = new BufferedWriter(pw)) {
+
+            bw.write(Cadena);
+
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    public void writeFromInputStream(){
+
+
+        try (InputStream is = System.in; //Collemos a entrada de datos
+        OutputStream os = new FileOutputStream(this.arquivo)){ //indicamos en donde se van a escribir esos datos
+
+            int datosLeidos; //Metemos os datos nunha vriable
+
+            while ((datosLeidos = is.read()) != -1){ //Mentres teña datos para leer, iraos escribindo no archivo de
+                os.write(datosLeidos); // Ir escribindo mentres  tanto 
+            }
+
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+
     }
 
     public void writeFromKeyBoard(String texto) {
@@ -87,18 +118,19 @@ public class Documento {
 
     }
 
-    public String writeFromInputStream() {
-        try {
-            ObjectInputStream ois = new ObjectInputStream(
-                    new BufferedInputStream(
-                            new FileInputStream(String.valueOf(Paths.get("probasCopia.txt")))));
-            System.out.println(ois);
 
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-        return null;
-    }
+//    public String writeFromInputStream() {
+//        try {
+//            ObjectInputStream ois = new ObjectInputStream(
+//                    new BufferedInputStream(
+//                            new FileInputStream(String.valueOf(Paths.get("probasCopia.txt")))));
+//            System.out.println(ois);
+//
+//        } catch (IOException e) {
+//            throw new RuntimeException(e);
+//        }
+//        return null;
+//    }
 
 
     public String writeFromKeyBoard() {
