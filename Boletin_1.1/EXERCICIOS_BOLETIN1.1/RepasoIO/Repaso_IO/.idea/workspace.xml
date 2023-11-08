@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07f7ddfc-fe22-4fd0-a47a-e27e89150b27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/AppConsultaChiste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/ChisteDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/Controlador/ChisteDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/Controlador/ControladorChiste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/IControladorChiste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/VistaChiste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/VistaChisteSwing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/VistaChisteTexto.java" afterDir="false" />
-    </list>
+    <list default="true" id="07f7ddfc-fe22-4fd0-a47a-e27e89150b27" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,15 +28,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/MaquinasVirtuais/AD/ACCESO_A_DATOS/Boletin_1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MaquinasVirtuais/AD/ACCESO_A_DATOS/Boletin_1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MainTeclado">
+}</component>
+  <component name="RunManager" selected="Application.Davan.Main">
+    <configuration name="Davan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Davan.Main" />
+      <module name="Repaso_IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Davan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Editor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio_3_EditorTexto.Editor" />
       <module name="Repaso_IO" />
@@ -87,8 +91,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainTeclado" />
+        <item itemvalue="Application.Davan.Main" />
         <item itemvalue="Application.Editor" />
+        <item itemvalue="Application.MainTeclado" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

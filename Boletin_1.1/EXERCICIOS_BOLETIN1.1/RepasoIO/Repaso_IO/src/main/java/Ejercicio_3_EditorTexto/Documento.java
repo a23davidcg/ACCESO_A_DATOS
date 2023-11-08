@@ -2,7 +2,6 @@ package Ejercicio_3_EditorTexto;
 
 import java.io.*;
 import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.Scanner;
 
 public class Documento {
@@ -32,14 +31,15 @@ public class Documento {
     public String readFile() {
 
         if (this.exists()) {
-            try (FileInputStream fis = new FileInputStream(this.arquivo);
-                 BufferedInputStream bis = new BufferedInputStream(fis)) {
+//            try (FileInputStream fis = new FileInputStream(this.arquivo);
+//                 BufferedInputStream bis = new BufferedInputStream(fis)) {
+            try (BufferedReader bis = new BufferedReader(new FileReader(this.arquivo))) {
 
                 StringBuilder sb = new StringBuilder();
 
-                int byteLeido;
-                while ((byteLeido = bis.read()) != -1) {
-                    sb.append(byteLeido);
+                String line;
+                while ((line = bis.readLine()) != null) {
+                    sb.append(line).append(System.lineSeparator());
                 }
                 return sb.toString();
             } catch (IOException e) {
@@ -92,18 +92,29 @@ public class Documento {
         }
     }
 
-    public void writeFromInputStream(){
-
+    public void writeFromInputStream() {
 
         try (InputStream is = System.in; //Collemos a entrada de datos
-        OutputStream os = new FileOutputStream(this.arquivo)){ //indicamos en donde se van a escribir esos datos
+             BufferedReader br = new BufferedReader(new FileReader(this.arquivo));
+             BufferedWriter bw = new BufferedWriter(new FileWriter(this.arquivo))) { //indicamos en donde se van a escribir esos datos
+
+            StringBuilder sb = new StringBuilder(br.read());
 
             int datosLeidos; //Metemos os datos nunha vriable
+            String line;
+            while ((line = br.readLine()) != null) { //Mentres teña datos para leer, iraos escribindo no archivo de
+                sb.append(line).append(System.lineSeparator());
 
-            while ((datosLeidos = is.read()) != -1){ //Mentres teña datos para leer, iraos escribindo no archivo de
-                os.write(datosLeidos); // Ir escribindo mentres  tanto 
+                // Ir escribindo mentres  tanto
             }
+            while ((datosLeidos = is.read()) != -1) { //Mentres teña datos para leer, iraos escribindo no archivo de
+                sb.append(datosLeidos);
 
+                // Ir escribindo mentres  tanto
+            }
+            bw.write(sb.toString());
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
