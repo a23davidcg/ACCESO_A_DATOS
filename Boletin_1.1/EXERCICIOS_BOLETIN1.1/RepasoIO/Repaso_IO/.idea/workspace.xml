@@ -28,15 +28,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/MaquinasVirtuais/AD/ACCESO_A_DATOS/Boletin_1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/MaquinasVirtuais/AD/ACCESO_A_DATOS/ACCESO_A_DATOS/Boletin_1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO",
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
-}</component>
-  <component name="RunManager" selected="Application.Davan.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.MainBuscarPAlabras">
     <configuration name="Davan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Davan.Main" />
       <module name="Repaso_IO" />
@@ -63,12 +64,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio_2_EstadisticasArchivo.Main" />
+    <configuration name="JAVA_NIO2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA_NIO2.Main" />
       <module name="Repaso_IO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicio_2_EstadisticasArchivo.*" />
+          <option name="PATTERN" value="JAVA_NIO2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainBuscarPAlabras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuscarPalabrasJavaIO.MainBuscarPAlabras" />
+      <module name="Repaso_IO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BuscarPalabrasJavaIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,10 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainBuscarPAlabras" />
+        <item itemvalue="Application.JAVA_NIO2.Main" />
         <item itemvalue="Application.Davan.Main" />
         <item itemvalue="Application.Editor" />
         <item itemvalue="Application.MainTeclado" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -108,5 +123,9 @@
       <updated>1698951930385</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

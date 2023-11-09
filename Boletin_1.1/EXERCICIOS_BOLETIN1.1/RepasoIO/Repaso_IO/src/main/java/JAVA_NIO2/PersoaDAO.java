@@ -4,30 +4,27 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.file.CopyOption;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.nio.file.*;
 
 public class PersoaDAO {
 
     private static String archivoOrigen = "ProbasExercicio1.txt";
-    private static String archivoDestino= "ProbasExercicioDestino.txt";
+    private static String archivoDestino = "ProbasExercicioDestino.txt";
 
 
     //Metodo para copiar un archivo en otro
 
-    public static void copiarArchivoConNIO(){
-        try (FileReader fr = new FileReader(String.valueOf(Paths.get(archivoOrigen)));
-             FileWriter fw = new FileWriter(String.valueOf(Paths.get(archivoDestino)));
+    public static void copiarArchivoConNIO() {
 
-             Files.walk(Paths.get(archivoOrigen),  new CopyOption(archivoOrigen, CopyOption.REPLACE_EXISTING);
+        Path pathOrigen = Paths.get(archivoOrigen);
+        Path pathDestino = Paths.get(archivoDestino);
 
-
-
-    } {
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
+        try {
+            Files.copy(pathOrigen, pathDestino, StandardCopyOption.REPLACE_EXISTING);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+
+
+    }
 }
