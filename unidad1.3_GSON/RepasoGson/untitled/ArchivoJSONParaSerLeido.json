@@ -1,0 +1,4 @@
+[
+    {"nombre": "Empleado1", "salario": 50000, "departamento": "TI"},
+    {"nombre": "Empleado2", "salario": 60000, "departamento": "Ventas"}
+]

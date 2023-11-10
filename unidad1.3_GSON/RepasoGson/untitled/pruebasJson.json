@@ -1,0 +1,10 @@
+{
+  "nome": "Albertino",
+  "edad": 20,
+  "asignaturas": [
+    "Matematicas",
+    "Literatura",
+    "Fisica",
+    "Quimica"
+  ]
+}
