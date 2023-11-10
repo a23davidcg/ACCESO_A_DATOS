@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6198c6fe-ab43-49f7-b5f9-a07f4d947491" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../RepasoIO/Repaso_IO/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RepasoIO/Repaso_IO/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RepasoIO/Repaso_IO/target/classes/Ejercicio_2_EstadisticasArchivo/EstadisticaFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RepasoIO/Repaso_IO/target/classes/Ejercicio_2_EstadisticasArchivo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/ProbasExercicio1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/src/main/java/Ejercicio_2_EstadisticasArchivo/EstadisticaFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/src/main/java/Ejercicio_2_EstadisticasArchivo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/src/main/java/Ejercicio_3_EditorTexto/Documento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/src/main/java/Ejercicio_3_EditorTexto/Editor.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2XaVl3c3t38haAPv9EReYbbK90z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/DAM 2/AD/ACCESO_A_DATOS/Boletin_1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Ejercicio_1.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6198c6fe-ab43-49f7-b5f9-a07f4d947491" name="Changes" comment="" />
+      <created>1698867325119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698867325119</updated>
+    </task>
+    <servers />
+  </component>
+</project>

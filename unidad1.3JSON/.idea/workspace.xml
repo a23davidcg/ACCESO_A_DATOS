@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99cd81f6-e5b5-4d57-adcd-354f1a06322b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../unidad1.3_GSON/Gson/exercicioConGson_Con_Date/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad1.3JASON/practicaJson1_Examen_Fecha/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.3JASON/practicaJson1_Examen_Fecha/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo_Que_Nos_Permite_Leer_JSON/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo_Que_Nos_Permite_Leer_JSON/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad1.3_GSON/Gson/exercicioConGson_Con_Date/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.3_GSON/Gson/exercicioConGson_Con_Date/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad1.3_GSON/Gson/gson/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.3_GSON/Gson/gson/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2WzNV9vDy5gWAg1moVxJLrHM83L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/David/Desktop/DAM 2/AD/ACCESO_A_DATOS/unidad1.3JSON"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99cd81f6-e5b5-4d57-adcd-354f1a06322b" name="Changes" comment="" />
+      <created>1697731469478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697731469478</updated>
+    </task>
+    <servers />
+  </component>
+</project>

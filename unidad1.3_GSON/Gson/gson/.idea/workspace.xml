@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="749dac02-aeec-4197-af10-cc7d9046206a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EjerciciosGson/clasificacion.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosGson/src/main/java/Ejercicio_ClasificacionDAO/Clasificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosGson/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicioConGson_Con_Date/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../unidad1.3JASON/practicaJson1_Examen_Fecha/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3JASON/practicaJson1_Examen_Fecha/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../unidad1.3JSON/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3JSON/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../unidad1.3JSON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3JSON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosGson/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosGson/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosGson/AccesoADatos2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosGson/AccesoADatos2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosGson/src/main/java/org/example/AccesoADatos.json" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosGson/Clasificacion.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjerciciosGson/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjerciciosGson/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicioConGson_Con_Date/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicioConGson_Con_Date/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2WwJ7sV4XPlUcZtUNLztRgIOxU8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/David/Desktop/DAM 2/AD/ACCESO_A_DATOS/unidad1.3_GSON/Gson/gson",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="749dac02-aeec-4197-af10-cc7d9046206a" name="Changes" comment="" />
+      <created>1697637544997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697637544997</updated>
+      <workItem from="1697735999892" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

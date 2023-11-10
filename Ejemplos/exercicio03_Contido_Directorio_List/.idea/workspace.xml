@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b5d6e55-b92f-4a5e-8607-cf9208ade515" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_8_Examen_LocalDate_Serializer_Deserializer/Examen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_8_Examen_LocalDate_Serializer_Deserializer/ExamenDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_8_Examen_LocalDate_Serializer_Deserializer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_1_SerializacionBasica/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_2_Producto/MainProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_2_Producto/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_3_Libro/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_REPASO_GSON/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_REPASO_GSON/.idea/EXERCICIOS_REPASO_GSON.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_REPASO_GSON/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_REPASO_GSON/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EXERCICIOS_REPASO_GSON/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/ClasificacionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/ClasificacionDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/Clasificiacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/Clasificacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/MainDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/MainDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2XaQfDVzunnlxog7Lb8x9GFhQKY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b5d6e55-b92f-4a5e-8607-cf9208ade515" name="Changes" comment="" />
+      <created>1698864813511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698864813511</updated>
+      <workItem from="1698864813965" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
