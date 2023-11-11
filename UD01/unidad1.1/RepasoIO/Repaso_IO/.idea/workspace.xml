@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="891e1e40-9f67-45be-aec0-013d5cc180ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ejercicio_2_EstadisticasArchivo/EstadisticaFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ejercicio_2_EstadisticasArchivo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Boletin_1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Boletin_1.1/EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../unidad1.3_GSON/RepasoGson/untitled/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../unidad1.3_GSON/RepasoGson/untitled/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../unidad1.3_GSON/RepasoGson/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../unidad1.3_GSON/RepasoGson/untitled/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2XoAcpD5h1keX2qgHzwA7HmDk3o" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/DAM 2/AD/ACCESO_A_DATOS"
+    "last_opened_file_path": "D:/DAM 2/AD/ACCESO_A_DATOS/Boletin_1.1/Ejercicio_1.1"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

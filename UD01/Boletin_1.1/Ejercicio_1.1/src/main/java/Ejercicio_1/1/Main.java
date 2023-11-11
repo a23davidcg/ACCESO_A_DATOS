@@ -1,9 +1,7 @@
 
 
-import java.io.BufferedInputStream;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.Reader;
+import java.io.*;
+import java.nio.file.Files;
 import java.nio.file.Path;
 
 public class Main {
@@ -15,5 +13,10 @@ public class Main {
         }catch (IOException e) {
             throw new RuntimeException();
         }
+        String contenido = Files.readString();
+
+        
+
+
     }
 }

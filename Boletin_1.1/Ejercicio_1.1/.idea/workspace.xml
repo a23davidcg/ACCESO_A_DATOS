@@ -5,25 +5,92 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6198c6fe-ab43-49f7-b5f9-a07f4d947491" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Original.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_8_Examen_LocalDate_Serializer_Deserializer/Examen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_8_Examen_LocalDate_Serializer_Deserializer/ExamenDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_8_Examen_LocalDate_Serializer_Deserializer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/Persona.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/Productos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_1_SerializacionBasica/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_2_Producto/MainProducto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_2_Producto/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/src/main/java/Ejercicio_3_Libro/Libro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../EXERCICIOS_REPASO_GSON/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../EXERCICIOS_REPASO_GSON/.idea/EXERCICIOS_REPASO_GSON.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../EXERCICIOS_REPASO_GSON/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../EXERCICIOS_REPASO_GSON/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../EXERCICIOS_REPASO_GSON/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/ClasificacionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/ClasificacionDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/Clasificiacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/Clasificacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/MainDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Boletin_01_03/src/main/java/Ejercicio_6_Clasificacion_DAO/MainDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../unidad1.3_GSON/Gson/EjerciciosGson_Equipos/src/main/java/Ejercicio_ClasificacionDAO/ClasificacionDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/target/classes/Davan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/target/classes/Davan/Persoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/target/classes/Davan/PersoaDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/target/classes/Ejercicio_2_EstadisticasArchivo/EstadisticaFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/target/classes/Ejercicio_2_EstadisticasArchivo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/target/classes/Ejercicio_3_EditorTexto/Documento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/target/classes/Ejercicio_3_EditorTexto/Editor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/target/classes/Ejercicio_4_LecturaDeTeclado/MainTeclado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXERCICIOS_BOLETIN1.1/RepasoIO/Repaso_IO/target/classes/Ejercicio_4_LecturaDeTeclado/Teclado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejemplos/exercicio03_Contido_Directorio_List/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejemplos/exercicio03_Contido_Directorio_List/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejemplos/exercicio03_Contido_Directorio_List/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UD01/unidad1.1/RepasoIO/Repaso_IO/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UD01/unidad1.1/RepasoIO/Repaso_IO/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UD01/unidad1.1/RepasoIO/Repaso_IO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UD01/unidad1.1/RepasoIO/Repaso_IO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.1/Boletin_1.1/Ejercicio_1.1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.1/Boletin_1.1/Ejercicio_1.1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.1/Boletin_1.1/Ejercicio_1.1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.1/EXERCICIO_1_COMPLETO/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.2_NIO/NIO_Ejercicio_Copia_Todos_Archivos_Dun_Directorio/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.2_NIO/NIO_Ejercicio_Copia_Todos_Archivos_Dun_Directorio/out/production/NIO_Ejercicio_Copia_Todos_Archivos_Dun_Directorio/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JSON/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JSON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JSON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JSON/Codigo_Que_Nos_Permite_Leer_JSON/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JSON/practicaJson1_Examen_Fecha/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JSON/practicaJson1_Examen_Fecha/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3JSON/practicaJson1_Examen_Fecha/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/BoletinExercicios/probas/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/BoletinExercicios/probas/untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/BoletinExercicios/probas/untitled/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/BoletinExercicios/probas/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/BoletinExercicios/probas/untitled/target/classes/org/example/Main$Coordenadas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/BoletinExercicios/probas/untitled/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/target/classes/Ejercicio_2/Lectura_Json.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/target/classes/Ejercicio_3/Examen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/target/classes/Ejercicio_3/MainExamen$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/target/classes/Ejercicio_3/MainExamen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/target/classes/Ejercicio_5/Examen_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/target/classes/Ejercicio_5/Examen_Gson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/target/classes/GsonDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/target/classes/org/example/Clasificacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Boletin_01_03/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/EjerciciosGson_Equipos/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/EjerciciosGson_Equipos/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/EjerciciosGson_Equipos/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/Examen_Con_LocaleDateTime/Examen/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/Examen_Con_LocaleDateTime/Examen/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/Examen_Con_LocaleDateTime/Examen/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/Exemplo_GSON/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/Exemplo_GSON/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/Exemplo_GSON/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/LeerAPICodigosPostales/LeerAPICodigosPostales/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/LeerAPICodigosPostales/LeerAPICodigosPostales/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/LeerAPICodigosPostales/LeerAPICodigosPostales/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/target/classes/Ejercicio_1_SerializacionBasica/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/target/classes/Ejercicio_1_SerializacionBasica/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/target/classes/Ejercicio_2_Producto/MainProducto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/target/classes/Ejercicio_2_Producto/Producto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SERIALIZACION_DESERIALIZACION/Serializacion_basica/target/classes/Ejercicio_3_Libro/Libro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SUDOKU PEPE/SudokuDAO/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/SUDOKU PEPE/SudokuDAO/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/exercicioConGson_Con_Date/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/exercicioConGson_Con_Date/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/exercicioConGson_Con_Date/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/gson/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/gson/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/Gson/gson/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/RepasoGson/untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/RepasoGson/untitled/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/RepasoGson/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/RepasoGson/untitled/target/classes/Ejercicio_1_CGPT/Estudiante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/RepasoGson/untitled/target/classes/Ejercicio_1_CGPT/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/RepasoGson/untitled/target/classes/Ejercicio_2_CGPT_ConvertirJsonAListaObjetos/Libro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/RepasoGson/untitled/target/classes/Ejercicio_2_CGPT_ConvertirJsonAListaObjetos/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../unidad1.3_GSON/RepasoGson/untitled/target/classes/Ejercicio_2_CGPT_ConvertirJsonAListaObjetos/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +98,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -46,7 +113,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/DAM 2/AD/ACCESO_A_DATOS/unidad1.1/EXERCICIO_1_COMPLETO"
+    "last_opened_file_path": "D:/DAM 2/AD/ACCESO_A_DATOS/UD01/Boletin_1.1/EXERCICIOS_BOLETIN1.1"
   }
 }]]></component>
   <component name="RunManager">
