@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="850d37df-9b04-422c-a2e7-43a3e0e39f25" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AppCodigoPostalSource (1)/AppCodigoPostalSource (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercicio_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_2/src/main/java/org/example/BlackFlags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_2/src/main/java/org/example/Chiste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_2/src/main/java/org/example/ChisteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1.1/Repaso/RepasoLecturasEscriturasIO/RepasoLecturasEscriturasIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1.1/Repaso/RepasoLecturasEscriturasIO/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1_3/REPASO_JSONREADER/REPASO_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1_3/REPASO_JSONREADER/REPASO_1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1_3/REPASO_JSONREADER/REPASO_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1_3/REPASO_JSONREADER/REPASO_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1_3/REPASO_JSONREADER/REPASO_1/ArrayJson.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1_3/REPASO_JSONREADER/REPASO_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1_3/REPASO_JSONREADER/REPASO_1/src/main/java/Practica_2/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1_3/REPASO_JSONREADER/REPASO_1/src/main/java/Practica_2/Practica_2_JsonReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1_3/RepasoJson_Gson/SerializarYDeserializar/src/main/java/org/example/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boletin_1_3/RepasoJson_Gson/SerializarYDeserializar/src/main/java/org/example/PersonaDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/AppCodigoPostalSource (1).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/AppCodigoPostal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/AppCodigoPostalTexto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/CodigoPostalMVC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/control/CodigoPostalController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/control/ICodigoPostalController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/diagram.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/model/CodigoPostal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/model/CodigoPostalDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/model/CodigoPostalDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/model/CodigoPostalTypeAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/model/ICodigoPostalDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/model/Lugar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/model/LugarDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/view/IVistaCodigoPostal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/view/VentaCodigoPostal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/view/VistaTextoCodigoPostal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/AppCodigoPostalSource (1)/com/pepinho/ad/codigopostal/view/WindowStyles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/Boletín 01.04. Java JSON. Parser.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/AppChiste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/AppConsultaChiste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/Chiste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/ChisteDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/ChisteTypeAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/Controlador/ChisteDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/Controlador/ControladorChiste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/Flag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/IControladorChiste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/VistaChiste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/VistaChisteSwing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BOLETIN_EXERCICIOS_1.4/EXERCICIOS/untitled/src/main/java/Exercicio_2/vista/VistaChisteTexto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Boletin_1.1/EXERCICIOS_BOLETIN1.1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Boletin_1.1/EXERCICIOS_BOLETIN1.1/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2Y1ktwz8XitXrWOno7E8sKM1C9b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DAM 2/AD/ACCESO_A_DATOS/UD01/BOLETIN_EXERCICIOS_1_4/Exercicio_2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="850d37df-9b04-422c-a2e7-43a3e0e39f25" name="Changes" comment="" />
+      <created>1699700692026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699700692026</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+Persona{nombre='Iria', edad=23, apellidos='Alonso'}
