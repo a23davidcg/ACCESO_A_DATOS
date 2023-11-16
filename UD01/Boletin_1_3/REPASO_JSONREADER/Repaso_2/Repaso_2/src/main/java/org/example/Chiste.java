@@ -1,18 +1,17 @@
 package org.example;
 
 public class Chiste {
-    private  boolean error;
-    private  String category;
-    private  String type;
-    private  String setup;
-    private  String delivery;
-    private  boolean safe;
-    private  int id;
-    private  String lan;
+    private boolean error;
+    private String category;
+    private String type;
+    private String setup;
+    private String delivery;
+    private boolean safe;
+    private int id;
+    private String lan;
     private BlackFlags blackFlags;
 
-
-    public Chiste(boolean error, String category, String type, String setup, String delivery, boolean safe, int id, String lan) {
+    public Chiste(boolean error, String category, String type, String setup, String delivery, boolean safe, int id, String lan, BlackFlags blackFlags) {
         this.error = error;
         this.category = category;
         this.type = type;
@@ -21,6 +20,7 @@ public class Chiste {
         this.safe = safe;
         this.id = id;
         this.lan = lan;
+        this.blackFlags = blackFlags;
     }
 
     public Chiste() {
@@ -109,9 +109,7 @@ public class Chiste {
                 ", safe=" + safe +
                 ", id=" + id +
                 ", lan='" + lan + '\'' +
+                ", blackFlags=" + blackFlags +
                 '}';
-    }
-
-    public void setFlag(BlackFlags flag) {
     }
 }
