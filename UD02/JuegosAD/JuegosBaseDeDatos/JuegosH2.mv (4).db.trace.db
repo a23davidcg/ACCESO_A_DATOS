@@ -1,0 +1,134 @@
+2023-11-17 10:19:12 jdbc[3]: exception
+java.sql.SQLClientInfoException: Client info name 'ApplicationName' not supported.
+	at org.h2.jdbc.JdbcConnection.setClientInfo(JdbcConnection.java:1573)
+	at org.jkiss.dbeaver.ext.generic.model.GenericDataSource.populateClientAppName(GenericDataSource.java:195)
+	at org.jkiss.dbeaver.ext.generic.model.GenericDataSource.openConnection(GenericDataSource.java:158)
+	at org.jkiss.dbeaver.ext.h2.model.H2DataSource.openConnection(H2DataSource.java:74)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCExecutionContext.connect(JDBCExecutionContext.java:103)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.initializeMainContext(JDBCRemoteInstance.java:102)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCRemoteInstance.<init>(JDBCRemoteInstance.java:61)
+	at org.jkiss.dbeaver.model.impl.jdbc.JDBCDataSource.initializeRemoteInstance(JDBCDataSource.java:119)
+	at org.jkiss.dbeaver.ext.generic.model.GenericDataSource.<init>(GenericDataSource.java:120)
+	at org.jkiss.dbeaver.ext.h2.model.H2DataSource.<init>(H2DataSource.java:43)
+	at org.jkiss.dbeaver.ext.h2.model.H2MetaModel.createDataSourceImpl(H2MetaModel.java:55)
+	at org.jkiss.dbeaver.ext.generic.GenericDataSourceProvider.openDataSource(GenericDataSourceProvider.java:106)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.openDataSource(DataSourceDescriptor.java:1288)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect0(DataSourceDescriptor.java:1125)
+	at org.jkiss.dbeaver.registry.DataSourceDescriptor.connect(DataSourceDescriptor.java:950)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.run(ConnectJob.java:77)
+	at org.jkiss.dbeaver.runtime.jobs.ConnectJob.runSync(ConnectJob.java:104)
+	at org.jkiss.dbeaver.ui.actions.datasource.DataSourceHandler.connectToDataSource(DataSourceHandler.java:115)
+	at org.jkiss.dbeaver.ui.actions.datasource.UIServiceConnectionsImpl.initConnection(UIServiceConnectionsImpl.java:87)
+	at org.jkiss.dbeaver.model.DBUtils.initDataSource(DBUtils.java:2535)
+	at org.jkiss.dbeaver.model.navigator.DBNDataSource.initializeNode(DBNDataSource.java:151)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:225)
+	at org.jkiss.dbeaver.model.navigator.DBNDatabaseNode.getChildren(DBNDatabaseNode.java:1)
+	at org.jkiss.dbeaver.model.navigator.DBNUtils.getNodeChildrenFiltered(DBNUtils.java:91)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:49)
+	at org.jkiss.dbeaver.ui.navigator.database.load.TreeLoadService.evaluate(TreeLoadService.java:1)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:88)
+	at org.jkiss.dbeaver.ui.LoadingJob.run(LoadingJob.java:72)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-11-17 10:20:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GENERO" not found (this database is empty); SQL statement:
+INSERT INTO PUBLIC.Genero (nombre) VALUES
+	 ('flight'),
+	 ('low-spec'),
+	 ('tower-defense'),
+	 ('horror'),
+	 ('mmorts') [42104-210]
+2023-11-17 10:20:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GENERO" not found (this database is empty); SQL statement:
+INSERT INTO PUBLIC.Genero (nombre) VALUES
+	 ('flight'),
+	 ('low-spec'),
+	 ('tower-defense'),
+	 ('horror'),
+	 ('mmorts') [42104-210]
+2023-11-17 10:20:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GENERO" not found (this database is empty); SQL statement:
+INSERT INTO PUBLIC.Genero (nombre) VALUES
+	 ('flight'),
+	 ('low-spec'),
+	 ('tower-defense'),
+	 ('horror'),
+	 ('mmorts') [42104-210]
+2023-11-17 10:20:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GENERO" not found (this database is empty); SQL statement:
+INSERT INTO PUBLIC.Genero (nombre) VALUES
+	 ('flight'),
+	 ('low-spec'),
+	 ('tower-defense'),
+	 ('horror'),
+	 ('mmorts') [42104-210]
+2023-11-17 10:20:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GENERO" not found (this database is empty); SQL statement:
+INSERT INTO PUBLIC.Genero (nombre) VALUES
+	 ('flight'),
+	 ('low-spec'),
+	 ('tower-defense'),
+	 ('horror'),
+	 ('mmorts') [42104-210]
+2023-11-17 10:23:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PUBLIC.INSERTGENERO (\000d\000a\0009""INSERT INTO PUBLIC.Genero (nombre) VALUES"" CHARACTER(50)\000d\000a\0009[*]INSERT INTO PUBLIC.Genero (nombre) VALUES\000d\000a\0009 ('mmorpg'),\000d\000a\0009 ('shooter'),\000d\000a\0009 ('strategy'),\000d\000a\0009 ('moba'),\000d\000a\0009 ('racing'),\000d\000a\0009 ('sports'),\000d\000a\0009 ('social'),\000d\000a\0009 ('sandbox'),\000d\000a\0009 ('open-world'),\000d\000a\0009 ('survival');\000d\000aINSERT INTO PUBLIC.Genero (nombre) VALUES\000d\000a\0009 ('pvp'),\000d\000a\0009 ('pve'),\000d\000a\0009 ('pixel'),\000d\000a\0009 ('voxel'),\000d\000a\0009 ('zombie'),\000d\000a\0009 ('turn-based'),\000d\000a\0009 ('first-person'),\000d\000a\0009 ('third-Person'),\000d\000a\0009 ('top-down'),\000d\000a\0009 ('tank');\000d\000aINSERT INTO PUBLIC.Genero (nombre) VALUES\000d\000a\0009 ('space'),\000d\000a\0009 ('sailing'),\000d\000a\0009 ('side-scroller'),\000d\000a\0009 ('superhero'),\000d\000a\0009 ('permadeath'),\000d\000a\0009 ('card'),\000d\000a\0009 ('battle-royale'),\000d\000a\0009 ('mmo'),\000d\000a\0009 ('mmofps'),\000d\000a\0009 ('mmotps');\000d\000aINSERT INTO PUBLIC.Genero (nombre) VALUES\000d\000a\0009 ('3d'),\000d\000a\0009 ('2d'),\000d\000a\0009 ('anime'),\000d\000a\0009 ('fantasy'),\000d\000a\0009 ('sci-fi'),\000d\000a\0009 ('fighting'),\000d\000a\0009 ('action-rpg'),\000d\000a\0009 ('action'),\000d\000a\0009 ('military'),\000d\000a\0009 ('martial-arts');\000d\000aINSERT INTO PUBLIC.Genero (nombre) VALUES\000d\000a\0009 ('flight'),\000d\000a\0009 ('low-spec'),\000d\000a\0009 ('tower-defense'),\000d\000a\0009 ('horror'),\000d\000a\0009 ('mmorts');\000d\000a)"; se esperaba "ARRAY, INVISIBLE, VISIBLE, NOT, NULL, AS, DEFAULT, GENERATED, ON, NOT, NULL, AUTO_INCREMENT, DEFAULT, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY, UNIQUE, NOT, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"
+Syntax error in SQL statement "CREATE TABLE PUBLIC.INSERTGENERO (\000d\000a\0009""INSERT INTO PUBLIC.Genero (nombre) VALUES"" CHARACTER(50)\000d\000a\0009[*]INSERT INTO PUBLIC.Genero (nombre) VALUES\000d\000a\0009 ('mmorpg'),\000d\000a\0009 ('shooter'),\000d\000a\0009 ('strategy'),\000d\000a\0009 ('moba'),\000d\000a\0009 ('racing'),\000d\000a\0009 ('sports'),\000d\000a\0009 ('social'),\000d\000a\0009 ('sandbox'),\000d\000a\0009 ('open-world'),\000d\000a\0009 ('survival');\000d\000aINSERT INTO PUBLIC.Genero (nombre) VALUES\000d\000a\0009 ('pvp'),\000d\000a\0009 ('pve'),\000d\000a\0009 ('pixel'),\000d\000a\0009 ('voxel'),\000d\000a\0009 ('zombie'),\000d\000a\0009 ('turn-based'),\000d\000a\0009 ('first-person'),\000d\000a\0009 ('third-Person'),\000d\000a\0009 ('top-down'),\000d\000a\0009 ('tank');\000d\000aINSERT INTO PUBLIC.Genero (nombre) VALUES\000d\000a\0009 ('space'),\000d\000a\0009 ('sailing'),\000d\000a\0009 ('side-scroller'),\000d\000a\0009 ('superhero'),\000d\000a\0009 ('permadeath'),\000d\000a\0009 ('card'),\000d\000a\0009 ('battle-royale'),\000d\000a\0009 ('mmo'),\000d\000a\0009 ('mmofps'),\000d\000a\0009 ('mmotps');\000d\000aINSERT INTO PUBLIC.Genero (nombre) VALUES\000d\000a\0009 ('3d'),\000d\000a\0009 ('2d'),\000d\000a\0009 ('anime'),\000d\000a\0009 ('fantasy'),\000d\000a\0009 ('sci-fi'),\000d\000a\0009 ('fighting'),\000d\000a\0009 ('action-rpg'),\000d\000a\0009 ('action'),\000d\000a\0009 ('military'),\000d\000a\0009 ('martial-arts');\000d\000aINSERT INTO PUBLIC.Genero (nombre) VALUES\000d\000a\0009 ('flight'),\000d\000a\0009 ('low-spec'),\000d\000a\0009 ('tower-defense'),\000d\000a\0009 ('horror'),\000d\000a\0009 ('mmorts');\000d\000a)"; expected "ARRAY, INVISIBLE, VISIBLE, NOT, NULL, AS, DEFAULT, GENERATED, ON, NOT, NULL, AUTO_INCREMENT, DEFAULT, NULL_TO_DEFAULT, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY, UNIQUE, NOT, NULL, CHECK, REFERENCES, AUTO_INCREMENT, ,, )"; SQL statement:
+CREATE TABLE PUBLIC.INSERTGENERO (
+	"INSERT INTO PUBLIC.Genero (nombre) VALUES" CHARACTER(50)
+	INSERT INTO PUBLIC.Genero (nombre) VALUES
+	 ('mmorpg'),
+	 ('shooter'),
+	 ('strategy'),
+	 ('moba'),
+	 ('racing'),
+	 ('sports'),
+	 ('social'),
+	 ('sandbox'),
+	 ('open-world'),
+	 ('survival');
+INSERT INTO PUBLIC.Genero (nombre) VALUES
+	 ('pvp'),
+	 ('pve'),
+	 ('pixel'),
+	 ('voxel'),
+	 ('zombie'),
+	 ('turn-based'),
+	 ('first-person'),
+	 ('third-Person'),
+	 ('top-down'),
+	 ('tank');
+INSERT INTO PUBLIC.Genero (nombre) VALUES
+	 ('space'),
+	 ('sailing'),
+	 ('side-scroller'),
+	 ('superhero'),
+	 ('permadeath'),
+	 ('card'),
+	 ('battle-royale'),
+	 ('mmo'),
+	 ('mmofps'),
+	 ('mmotps');
+INSERT INTO PUBLIC.Genero (nombre) VALUES
+	 ('3d'),
+	 ('2d'),
+	 ('anime'),
+	 ('fantasy'),
+	 ('sci-fi'),
+	 ('fighting'),
+	 ('action-rpg'),
+	 ('action'),
+	 ('military'),
+	 ('martial-arts');
+INSERT INTO PUBLIC.Genero (nombre) VALUES
+	 ('flight'),
+	 ('low-spec'),
+	 ('tower-defense'),
+	 ('horror'),
+	 ('mmorts');
+) [42001-210]
+2023-11-17 10:23:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "INSERTGENERO" ya existe
+Table "INSERTGENERO" already exists; SQL statement:
+CREATE TABLE PUBLIC.INSERTGENERO (
+	"INSERT INTO PUBLIC.Genero (nombre) VALUES" CHARACTER(50)
+) [42101-210]
