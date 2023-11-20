@@ -20,8 +20,7 @@ public class ClasificacionDAO implements Serializable {
      * @return
      */
     public static boolean saveToObject(String archivo, Clasificacion c) {
-        try (ObjectOutputStream oos = new ObjectOutputStream(
-                new BufferedOutputStream(new FileOutputStream(archivo)));) {
+        try (ObjectOutputStream oos = new ObjectOutputStream(new BufferedOutputStream(new FileOutputStream(archivo)));) {
             oos.writeObject(c);
         } catch (IOException ex) {
             System.err.println("Erro de Entrada/Saída");
@@ -44,13 +43,12 @@ public class ClasificacionDAO implements Serializable {
     public void saveToJson(Clasificacion clasificacion) {
         saveToJson(JSON_FILE, clasificacion);
     }
+
     public Clasificacion getFromObject() throws IOException {
         ObjectInputStream ois = null;
         if (Files.exists(Paths.get(OBJECT_FILE))) {
             try {
-                ois = new ObjectInputStream(
-                        new BufferedInputStream(
-                                Files.newInputStream(Paths.get(OBJECT_FILE))));
+                ois = new ObjectInputStream(new BufferedInputStream(Files.newInputStream(Paths.get(OBJECT_FILE))));
             } catch (IOException e) {
                 throw new RuntimeException(e);
             } finally {
