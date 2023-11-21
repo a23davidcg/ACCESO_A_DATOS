@@ -1,36 +1,44 @@
-package org.example;
+package com.pepinho.ad.jdbc;
 
+import java.io.File;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
+// then press Enter. You can now see whitespace characters in your code.
 public class Main {
-    public static void main(String[] args) throws SQLException, ClassNotFoundException {
+    public static void main(String[] args) throws SQLException {
 
-//        //En caso de que non teña metidos os drivers
-//        try{
-//            Class.forName("org.h2.Driver"); //Versions previas JDBC 4.0
-//
-//        }catch (ClassNotFoundException E) {
-//            throw new RuntimeException(E);
-//        }
-//
-//        //nON CONECTA PORQUE NA URL DEBERIA DE SER H3 NON SQLITE, CORREXIR ESO.
-//        Connection connection = DriverManager.getConnection("jdbc:sqlite:D:\\MaquinasVirtuais\\AD\\ACCESO_A_DATOS\\ACCESO_A_DATOS\\UD02\\BaseDeDatos\\BaseDatos");
-//        System.out.println(connection.getMetaData().getDatabaseProductName());
 
-//        ConnectionManager connectionManager = new ConnectionManager();
-//        Connection connection = ConnectionManager.getConnection();
+    FileManager fileManager = FileManager.getInstance();
+    FileManager file = FileManager.getInstance();
+
+    if(file==fileManager) {
+        System.out.println("Son iguais");
+    } else {
+        System.out.println("Son diferentes");
+    }
+
+//    ConnectionManager connectionManager = new ConnectionManager();
+//        Connection connection = connectionManager.getConnection();
 //
 //        System.out.println(connection.getMetaData().getDatabaseProductName());
 //
 //        ConnectionManager con2 = new ConnectionManager();
+//        Connection con = con2.getConnection();
+//        System.out.println(con.getMetaData().getDatabaseProductName());
 
-        FileSingleton f1 = FileSingleton.getInstance();
-        FileSingleton f2 = FileSingleton.getInstance();
-
-
-
+//        try {
+//            Class.forName("org.h2.Driver"); // Versións previas JDBC 4.0 (JDK 1.6)
+//        } catch (ClassNotFoundException e) {
+//            e.printStackTrace();
+//        }
+//
+//
+//        Connection con = DriverManager.getConnection("jdbc:h2:E:\\98 - Bases de datos\\h2\\juego\\JuegosH2.mv.db");
+//
+//        System.out.println(con.getMetaData().getDatabaseProductName());
 
 
     }
