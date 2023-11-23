@@ -1,5 +1,7 @@
 package org.example;
 
+import javax.imageio.ImageIO;
+import java.io.ByteArrayInputStream;
 import java.io.Serializable;
 import java.nio.file.Path;
 
@@ -98,6 +100,9 @@ public class Book implements Serializable {
     }
 
     public void getImage() {
+
+        try (ByteArrayInputStream is = new ByteArrayInputStream(portada);
+             ImageIO.read(FLUJO));
 
     }
 }
