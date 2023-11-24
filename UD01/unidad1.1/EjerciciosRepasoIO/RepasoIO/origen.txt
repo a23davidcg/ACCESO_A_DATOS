@@ -1,0 +1,2 @@
+Este es el archivo de origen del que se quiere hacer una copia a otro archivo que va aser destino.txt
+
