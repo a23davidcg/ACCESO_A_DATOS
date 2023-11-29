@@ -7,10 +7,15 @@ public class Ejercicio2 {
         //Escribe un programa en Java que copie el contenido de un archivo llamado "origen.txt" a otro archivo llamado "destino.txt".
 
         String origen = "origen.txt";
-        String destino = "destino.txt";
+        File destino = new File ("destino.txt");
 
         try (BufferedReader reader = new BufferedReader(
                 new FileReader(origen))) {
+            int caracter;
+            while ((caracter = reader.read()) != -1){
+                System.out.println((char) caracter);
+
+            }
 
             String contenido;
 
@@ -19,6 +24,12 @@ public class Ejercicio2 {
 
                 try (BufferedWriter bw = new BufferedWriter(
                         new FileWriter(destino, true))) {
+                    if (!destino.exists()){
+                        System.out.println("El archivo no existe, por lo quye se va a crear uno nuevo");
+                        destino.createNewFile();
+                    }else {
+                        System.out.println("El archivo existe");
+                    }
 
                     bw.append(contenido + "º\n Se ha añadido esto desde el archivo de origen para hacer un copia pega desde el origen hasta el destino");
                 }

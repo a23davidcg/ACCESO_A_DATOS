@@ -1,3 +1,3 @@
-Este es el archivo de origen del que se quiere hacer una copia a otro archivo que va aser destino.txtSe ha añadido esto desde el archivo de origen para hacer un copia pega desde el origen hasta el destinoSe ha añadido esto desde el archivo de origen para hacer un copia pega desde el origen hasta el destinoEste es el archivo de origen del que se quiere hacer una copia a otro archivo que va aser destino.txtº
+Este es el archivo de origen del que se quiere hacer una copia a otro archivo que va aser destino.txtº
  Se ha añadido esto desde el archivo de origen para hacer un copia pega desde el origen hasta el destinoº
  Se ha añadido esto desde el archivo de origen para hacer un copia pega desde el origen hasta el destino

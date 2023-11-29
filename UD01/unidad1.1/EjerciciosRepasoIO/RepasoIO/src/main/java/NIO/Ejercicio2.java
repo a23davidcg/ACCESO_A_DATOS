@@ -1,7 +1,9 @@
-package org.example;
+package NIO;
 
-public class Ejercicio3 {
+public class Ejercicio2 {
     public static void main(String[] args) {
+
+
 
     }
 }
