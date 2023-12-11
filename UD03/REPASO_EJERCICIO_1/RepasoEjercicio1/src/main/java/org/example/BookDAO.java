@@ -14,13 +14,13 @@ public class BookDAO implements DAO<Book> {
 
     @Override
     public Book get(Long id) {
-        try (PreparedStatement pst = conexion.prepareStatement("SELECT * FROM \"Book\" WHERE \"idBook\"=?")) {
 
+        try (PreparedStatement pst = conexion.prepareStatement("SELECT * FROM Book WHERE idBook=?;")){
             pst.setLong(1, id);
 
             ResultSet rs = pst.executeQuery();
 
-            if (rs.next()) {
+            if(rs.next()){
                 Long idBook = rs.getLong(1);
                 String isbn = rs.getString(2);
                 String title = rs.getString(3);
@@ -30,14 +30,36 @@ public class BookDAO implements DAO<Book> {
                 byte[] portada = rs.getBytes(7);
 
                 Book book = new Book(idBook, isbn, title, author, year, available, portada);
-
                 return book;
-            }
 
+            }
         } catch (SQLException e) {
-            System.err.println("Non se puido facer a lectura de toda a base de datos no metodo get" + e);
+            throw new RuntimeException(e);
         }
-        return null;
+//        try (PreparedStatement pst = conexion.prepareStatement("SELECT * FROM \"Book\" WHERE \"idBook\"=?")) {
+//
+//            pst.setLong(1, id);
+//
+//            ResultSet rs = pst.executeQuery();
+//
+//            if (rs.next()) {
+//                Long idBook = rs.getLong(1);
+//                String isbn = rs.getString(2);
+//                String title = rs.getString(3);
+//                String author = rs.getString(4);
+//                int year = rs.getInt(5);
+//                boolean available = rs.getBoolean(6);
+//                byte[] portada = rs.getBytes(7);
+//
+//                Book book = new Book(idBook, isbn, title, author, year, available, portada);
+//
+//                return book;
+//            }
+//
+//        } catch (SQLException e) {
+//            System.err.println("Non se puido facer a lectura de toda a base de datos no metodo get" + e);
+//        }
+//        return null;
     }
 
     @Override

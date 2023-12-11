@@ -40,15 +40,15 @@ public class AppArchivosJava {
 
         try {
             if (!Files.isDirectory(pathDirectorio)) {
-                throw new IllegalArgumentException("La ruta no se encuentra");
+                throw new IllegalArgumentException("La ruta no es correcta ");
             }
-
             return Files.list(pathDirectorio)
                     .filter(Files::isDirectory)
                     .collect(Collectors.toList());
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+    }
 
 //        try {
 //            if (!Files.isDirectory(pathDirectorio)) {
@@ -62,7 +62,7 @@ public class AppArchivosJava {
 //        } catch (IOException e) {
 //            throw new RuntimeException(e);
 //        }
-    }
+    //}
 
 
     /**
@@ -86,18 +86,34 @@ public class AppArchivosJava {
 
         try {
             if (!Files.isDirectory(pathDirectorio)) {
-                throw new IllegalArgumentException();
+                throw new IllegalArgumentException("ERROR");
             }
 
-            try (var walk =Files.walk(pathDirectorio, FileVisitOption.FOLLOW_LINKS)
-            ) {
-                return walk.filter(path -> Files.isRegularFile(path) && path.toString().endsWith(fileExtension))
+            try (var walk = Files.walk(pathDirectorio, FileVisitOption.FOLLOW_LINKS)) {
+               return walk.filter(path -> Files.isRegularFile(pathDirectorio) && path.toString().endsWith(fileExtension))
                         .collect(Collectors.toList());
 
             }
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+
+    }
+
+//        try {
+//            if (!Files.isDirectory(pathDirectorio)) {
+//                throw new IllegalArgumentException();
+//            }
+//
+//            try (var walk = Files.walk(pathDirectorio, FileVisitOption.FOLLOW_LINKS)
+//            ) {
+//                return walk.filter(path -> Files.isRegularFile(path) && path.toString().endsWith(fileExtension))
+//                        .collect(Collectors.toList());
+//
+//            }
+//        } catch (IOException e) {
+//            throw new RuntimeException(e);
+//        }
 
 
 //        try {
@@ -111,7 +127,7 @@ public class AppArchivosJava {
 //        } catch (IOException ex) {
 //            throw new RuntimeException(ex);
 //        }
-    }
+
 
 
     /**
