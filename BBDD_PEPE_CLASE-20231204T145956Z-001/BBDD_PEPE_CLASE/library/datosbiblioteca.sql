@@ -1,0 +1,11 @@
+INSERT INTO PUBLIC.Book (isbn, titulo, autor, anho, disponible, portada) VALUES ('9788499088150', 'Verano', 'J. M. Coetzee', 2009, TRUE, NULL);
+INSERT INTO PUBLIC.Book (isbn, titulo, autor, anho, disponible, portada) VALUES ('9788433960023', 'Niveles de Vida', 'Julian Barnes', 2013, TRUE, NULL);
+INSERT INTO PUBLIC.Book (isbn, titulo, autor, anho, disponible, portada) VALUES ('9788478884452', 'Harry Potter y la piedra filosofal', 'J.K. Rowling', 1997, TRUE, NULL);
+INSERT INTO PUBLIC.Book (isbn, titulo, autor, anho, disponible, portada) VALUES ('9788408238218', 'El gran Gatsby', 'F. Scott Fitzgerald', 1925, TRUE, NULL);
+INSERT INTO PUBLIC.Book (isbn, titulo, autor, anho, disponible, portada) VALUES ('9780241984758', 'The Catcher in the Rye', 'J.D. Salinger', 1951, TRUE, NULL);
+INSERT INTO PUBLIC.Book (isbn, titulo, autor, anho, disponible, portada) VALUES ('9788433977373', 'The Sense of an Ending', 'Julian Barnes', 2011, TRUE, NULL);
+INSERT INTO PUBLIC.Book (isbn, titulo, autor, anho, disponible, portada) VALUES ('9788439741114', 'No es país para viejos: No Country for Old Men', 'Cormac McCarthy', 2005, TRUE, NULL);
+INSERT INTO PUBLIC.Book (isbn, titulo, autor, anho, disponible, portada) VALUES ('9788483468685', 'The Road', 'Cormac McCarthy', 2006, TRUE, NULL);
+INSERT INTO PUBLIC.Book (isbn, titulo, autor, anho, disponible, portada) VALUES ('9788433979551', 'El ruido del tiempo', 'Julian Barnes', 2016, TRUE, NULL);
+INSERT INTO PUBLIC.Book (isbn, titulo, autor, anho, disponible, portada) VALUES ('9781035003754', 'All the Pretty Horses', 'Cormac McCarthy', 1992, TRUE, NULL);
+INSERT INTO PUBLIC.Book (isbn, titulo, autor, anho, disponible, portada) VALUES ('9788433960023', 'Levels of Life', 'Julian Barnes', 2013, TRUE, NULL);

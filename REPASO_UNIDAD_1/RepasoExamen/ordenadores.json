@@ -1,0 +1,2023 @@
+{
+  "articles": [
+    {
+      "id": "10663373",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1066/10663373/1374-alurin-go-start-intel-pentium-n4020-8gb-256gb-ssd-14-comprar.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1066/10663373/1374-alurin-go-start-intel-pentium-n4020-8gb-256gb-ssd-14-comprar.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1066/10663373/1374-alurin-go-start-intel-pentium-n4020-8gb-256gb-ssd-14-comprar.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "Alurin Go Start Intel Celeron N4020/8GB/256GB SSD/14\"",
+      "groupName": "Alurin Go Start Intel Celeron N4020/8GB/256GB SSD/14\"",
+      "singleName": "Alurin Go Start Intel Celeron N4020/8GB/256GB SSD/14\"",
+      "locale": "es_ES",
+      "offerId": "4de7ede1-5635-4095-be21-80588f5c17e1",
+      "originalPrice": 238.85,
+      "promotionalPrice": 209.9,
+      "discount": 12,
+      "discountInCart": 0,
+      "initialStock": 150,
+      "stock": 116,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 19,
+      "ratingAvg": 5,
+      "relevance": 453,
+      "slug": "alurin-go-start-intel-celeron-n4020-8gb-256gb-ssd-14",
+      "brandName": "Alurin",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [
+        {
+          "axis": "Modelo Sistema Operativo",
+          "displayPattern": "TEXT",
+          "totalValues": 2,
+          "values": [
+            {
+              "name": "Sin Sistema operativo",
+              "displayValue": null,
+              "slug": "alurin-go-start-intel-celeron-n4020-8gb-256gb-ssd-14"
+            },
+            {
+              "name": "Windows 11 Home",
+              "displayValue": null,
+              "slug": "alurin-go-start-intel-celeron-n4020-8gb-256gb-ssd-14-windows-11-home"
+            }
+          ]
+        }
+      ],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Pulgadas",
+          "value": "14 Pulgadas"
+        },
+        {
+          "name": "Memoria Ram",
+          "value": "8 GB RAM"
+        },
+        {
+          "name": "Tipo de Portátil",
+          "value": "Ultrabook"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "256 GB SSD"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 239,
+      "bestPrice": 238.85,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 188.4,
+        "bestPrice30days": 238.85,
+        "bestPrice60days": 238.85,
+        "bestPrice90days": 188.4
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 4000,
+      "visitsLast180Days": 4000,
+      "visitsLast365Days": 10000,
+      "crossedOutPrice": 238.85,
+      "wishListCounter": 27
+    },
+    {
+      "id": "10674421",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1067/10674421/1914-pccom-revolt-4070-fhd-intel-core-i7-13700hx-32gb-1tb-ssd-rtx-4070-173-windows-11-home.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1067/10674421/1914-pccom-revolt-4070-fhd-intel-core-i7-13700hx-32gb-1tb-ssd-rtx-4070-173-windows-11-home.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1067/10674421/1914-pccom-revolt-4070-fhd-intel-core-i7-13700hx-32gb-1tb-ssd-rtx-4070-173-windows-11-home.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "PcCom Revolt 4070 FHD Intel Core i7-13700HX/32GB/1TB SSD/RTX 4070/17.3\" + Windows 11 Home",
+      "groupName": "PcCom Revolt 4070 FHD Intel Core i7-13700HX/32GB/1TB SSD/RTX 4070/17.3\" + Windows 11 Home",
+      "singleName": "PcCom Revolt 4070 FHD Intel Core i7-13700HX/32GB/1TB SSD/RTX 4070/17.3\" + Windows 11 Home",
+      "locale": "es_ES",
+      "offerId": "77256554-fcde-4116-9b61-795bdaf884a8",
+      "originalPrice": 2271.15,
+      "promotionalPrice": 1819.9,
+      "discount": 19,
+      "discountInCart": 0,
+      "initialStock": 22,
+      "stock": 17,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 11,
+      "ratingAvg": 5,
+      "relevance": 452,
+      "slug": "pccom-revolt-4070-fhd-intel-core-i7-13700hx-32gb-1tb-ssd-rtx-4070-173-windows-11-home",
+      "brandName": "PcCom",
+      "flags": [
+        "freeShipping",
+        "gift"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [
+        {
+          "axis": "Almacenamiento SSD",
+          "displayPattern": "TEXT",
+          "totalValues": 2,
+          "values": [
+            {
+              "name": "1 TB SSD",
+              "displayValue": null,
+              "slug": "pccom-revolt-4070-fhd-intel-core-i7-13700hx-32gb-1tb-ssd-rtx-4070-173"
+            },
+            {
+              "name": "500 GB SSD",
+              "displayValue": null,
+              "slug": "pccom-revolt-4070-intel-core-i7-13700hx-32gb-500gb-ssd-rtx-4070-173-windows-11-home"
+            }
+          ]
+        },
+        {
+          "axis": "Modelo Sistema Operativo",
+          "displayPattern": "TEXT",
+          "totalValues": 2,
+          "values": [
+            {
+              "name": "Sin Sistema operativo",
+              "displayValue": null,
+              "slug": "pccom-revolt-4070-fhd-intel-core-i7-13700hx-32gb-1tb-ssd-rtx-4070-173"
+            },
+            {
+              "name": "Windows 11 Home",
+              "displayValue": null,
+              "slug": "pccom-revolt-4070-fhd-intel-core-i7-13700hx-32gb-1tb-ssd-rtx-4070-173-windows-11-home"
+            }
+          ]
+        },
+        {
+          "axis": "Memoria Ram",
+          "displayPattern": "TEXT",
+          "totalValues": 2,
+          "values": [
+            {
+              "name": "16GB RAM",
+              "displayValue": null,
+              "slug": "pccom-revolt-4070-fhd-intel-core-i7-13700hx-16gb-1tb-ssd-rtx-4070-173-windows-11-home"
+            },
+            {
+              "name": "32 GB RAM",
+              "displayValue": null,
+              "slug": "pccom-revolt-4070-fhd-intel-core-i7-13700hx-32gb-1tb-ssd-rtx-4070-173"
+            }
+          ]
+        }
+      ],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Procesador",
+          "value": "Intel Core I7"
+        },
+        {
+          "name": "Sistema Operativo",
+          "value": "Windows"
+        },
+        {
+          "name": "Memoria Ram",
+          "value": "32 GB RAM"
+        },
+        {
+          "name": "Tarjeta Gráfica",
+          "value": "GeForce RTX 4070"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": null,
+      "bestPrice": 2271.15,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 1748.99,
+        "bestPrice30days": 2271.15,
+        "bestPrice60days": 1919.89,
+        "bestPrice90days": 1919.89
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 100,
+      "visitsLast180Days": 100,
+      "visitsLast365Days": 2000,
+      "crossedOutPrice": 2271.15,
+      "wishListCounter": 15
+    },
+    {
+      "id": "10756857",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1075/10756857/1805-hp-15s-eq2167ns-amd-ryzen-5-5500u-16gb-512gb-ssd-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1075/10756857/1805-hp-15s-eq2167ns-amd-ryzen-5-5500u-16gb-512gb-ssd-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1075/10756857/1805-hp-15s-eq2167ns-amd-ryzen-5-5500u-16gb-512gb-ssd-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "HP 15S-eq2167ns AMD Ryzen 5 5500U/16GB/512GB SSD/15.6\"",
+      "groupName": "HP 15S-eq2167ns AMD Ryzen 5 5500U/16GB/512GB SSD/15.6\"",
+      "singleName": "HP 15S-eq2167ns AMD Ryzen 5 5500U/16GB/512GB SSD/15.6\"",
+      "locale": "es_ES",
+      "offerId": "901239e5-2007-493d-b915-44e06c7b8e3c",
+      "originalPrice": 599,
+      "promotionalPrice": 529,
+      "discount": 11,
+      "discountInCart": 0,
+      "initialStock": 100,
+      "stock": 33,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 38,
+      "ratingAvg": 4,
+      "relevance": 451,
+      "slug": "hp-15s-eq2167ns-amd-ryzen-5-5500u-16gb-512gb-ssd-156",
+      "brandName": "HP",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Sistema Operativo",
+          "value": "Windows"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        },
+        {
+          "name": "Procesador",
+          "value": "AMD Ryzen 5"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 599,
+      "bestPrice": 469,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 469,
+        "bestPrice30days": 469,
+        "bestPrice60days": 469,
+        "bestPrice90days": 469
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 20000,
+      "visitsLast180Days": 20000,
+      "visitsLast365Days": 20000,
+      "crossedOutPrice": 469,
+      "wishListCounter": 84
+    },
+    {
+      "id": "10736938",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1073/10736938/1810-asus-vivobook-go-e1504fa-nj642w-amd-ryzen-5-7520u-8gb-512gb-ssd-radeon-610m-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1073/10736938/1810-asus-vivobook-go-e1504fa-nj642w-amd-ryzen-5-7520u-8gb-512gb-ssd-radeon-610m-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1073/10736938/1810-asus-vivobook-go-e1504fa-nj642w-amd-ryzen-5-7520u-8gb-512gb-ssd-radeon-610m-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "ASUS Vivobook Go E1504FA-NJ642W AMD Ryzen 5 7520U/8GB/512GB SSD/Radeon 610M/15.6\"",
+      "groupName": "ASUS Vivobook Go E1504FA-NJ642W AMD Ryzen 5 7520U/8GB/512GB SSD/Radeon 610M/15.6\"",
+      "singleName": "ASUS Vivobook Go E1504FA-NJ642W AMD Ryzen 5 7520U/8GB/512GB SSD/Radeon 610M/15.6\"",
+      "locale": "es_ES",
+      "offerId": "1b25be88-c8cf-488a-bd44-0c9aa72a437b",
+      "originalPrice": 599,
+      "promotionalPrice": 469,
+      "discount": 21,
+      "discountInCart": 0,
+      "initialStock": 100,
+      "stock": 31,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 30,
+      "ratingAvg": 5,
+      "relevance": 348,
+      "slug": "asus-vivobook-go-e1504fa-nj642w-amd-ryzen-5-7520u-8gb-512gb-ssd-156",
+      "brandName": "Asus",
+      "flags": [
+        "freeShipping",
+        "gift"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Sistema Operativo",
+          "value": "Windows"
+        },
+        {
+          "name": "Memoria Ram",
+          "value": "8 GB RAM"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        },
+        {
+          "name": "Procesador",
+          "value": "AMD Ryzen 5"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 599,
+      "bestPrice": 489.01,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 429,
+        "bestPrice30days": 489.01,
+        "bestPrice60days": 429,
+        "bestPrice90days": 429
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 20000,
+      "visitsLast180Days": 20000,
+      "visitsLast365Days": 30000,
+      "crossedOutPrice": 599,
+      "wishListCounter": 101
+    },
+    {
+      "id": "10733296",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1073/10733296/1176-hp-victus-15-fa0053ns-intel-core-i5-12450h-16gb-512gb-ssd-rtx-3050-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1073/10733296/1176-hp-victus-15-fa0053ns-intel-core-i5-12450h-16gb-512gb-ssd-rtx-3050-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1073/10733296/1176-hp-victus-15-fa0053ns-intel-core-i5-12450h-16gb-512gb-ssd-rtx-3050-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "HP Victus 15-fa0053ns Intel Core i5-12450H/16GB/512GB SSD/RTX 3050/15.6\"",
+      "groupName": "HP Victus 15-fa0053ns Intel Core i5-12450H/16GB/512GB SSD/RTX 3050/15.6\"",
+      "singleName": "HP Victus 15-fa0053ns Intel Core i5-12450H/16GB/512GB SSD/RTX 3050/15.6\"",
+      "locale": "es_ES",
+      "offerId": "f89b9b3a-3c23-48ec-932f-30b49788d577",
+      "originalPrice": 898.99,
+      "promotionalPrice": 729,
+      "discount": 18,
+      "discountInCart": 0,
+      "initialStock": 100,
+      "stock": 24,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 298,
+      "ratingAvg": 5,
+      "relevance": 334,
+      "slug": "hp-victus-15-fa0053ns-intel-core-i5-12450h-16gb-512gb-ssd-rtx-3050-156",
+      "brandName": "HP",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Procesador",
+          "value": "Intel Core I5"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        },
+        {
+          "name": "Tarjeta Gráfica",
+          "value": "GeForce RTX 3050"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 899,
+      "bestPrice": 679,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 583.5,
+        "bestPrice30days": 679,
+        "bestPrice60days": 679,
+        "bestPrice90days": 583.5
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 30000,
+      "visitsLast180Days": 30000,
+      "visitsLast365Days": 40000,
+      "crossedOutPrice": 679,
+      "wishListCounter": 416
+    },
+    {
+      "id": "10792747",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1079/10792747/1824-acer-nitro-v-15-anv15-51-51pq-intel-core-i5-13420h-16gb-1tb-ssd-rtx-3050-156-review.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1079/10792747/1824-acer-nitro-v-15-anv15-51-51pq-intel-core-i5-13420h-16gb-1tb-ssd-rtx-3050-156-review.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1079/10792747/1824-acer-nitro-v-15-anv15-51-51pq-intel-core-i5-13420h-16gb-1tb-ssd-rtx-3050-156-review.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "Acer Nitro V 15 ANV15-51-51PQ Intel Core i5-13420H/16GB/1TB SSD/RTX 3050/15.6\"",
+      "groupName": "Acer Nitro V 15 ANV15-51-51PQ Intel Core i5-13420H/16GB/1TB SSD/RTX 3050/15.6\"",
+      "singleName": "Acer Nitro V 15 ANV15-51-51PQ Intel Core i5-13420H/16GB/1TB SSD/RTX 3050/15.6\"",
+      "locale": "es_ES",
+      "offerId": "958ae3c6-9b8b-47a2-8084-468dff3bdc88",
+      "originalPrice": 1098.99,
+      "promotionalPrice": 749,
+      "discount": 31,
+      "discountInCart": 0,
+      "initialStock": 100,
+      "stock": 38,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 2,
+        "minDeliveryDate": "2023-12-13T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-14T16:57:15+01:00"
+      },
+      "ratingCount": 28,
+      "ratingAvg": 5,
+      "relevance": 328,
+      "slug": "acer-nitro-v-15-anv15-51-51pq-intel-core-i5-13420h-16gb-1tb-ssd-rtx-3050-156",
+      "brandName": "Acer",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Procesador",
+          "value": "Intel Core I5"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "1 TB SSD"
+        },
+        {
+          "name": "Tarjeta Gráfica",
+          "value": "GeForce RTX 3050"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 1099,
+      "bestPrice": 729,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 729,
+        "bestPrice30days": 729,
+        "bestPrice60days": 729,
+        "bestPrice90days": 729
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 40000,
+      "visitsLast180Days": 40000,
+      "visitsLast365Days": 40000,
+      "crossedOutPrice": 729,
+      "wishListCounter": 166
+    },
+    {
+      "id": "10797786",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1079/10797786/1581-lenovo-ideapad-slim-3-15iah8-intel-core-i5-12450h-16gb-512gb-ssd-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1079/10797786/1581-lenovo-ideapad-slim-3-15iah8-intel-core-i5-12450h-16gb-512gb-ssd-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1079/10797786/1581-lenovo-ideapad-slim-3-15iah8-intel-core-i5-12450h-16gb-512gb-ssd-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "Lenovo IdeaPad Slim 3 15IAH8 Intel Core i5-12450H/16GB/512GB SSD/15.6''",
+      "groupName": "Lenovo IdeaPad Slim 3 15IAH8 Intel Core i5-12450H/16GB/512GB SSD/15.6''",
+      "singleName": "Lenovo IdeaPad Slim 3 15IAH8 Intel Core i5-12450H/16GB/512GB SSD/15.6''",
+      "locale": "es_ES",
+      "offerId": "850bbc22-ecf4-4b37-800f-8a16ebeb29a9",
+      "originalPrice": 589,
+      "promotionalPrice": null,
+      "discount": 0,
+      "discountInCart": 0,
+      "initialStock": null,
+      "stock": null,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 73,
+      "ratingAvg": 5,
+      "relevance": 328,
+      "slug": "lenovo-ideapad-slim-3-15iah8-intel-core-i5-12450h-16gb-512gb-ssd-156",
+      "brandName": "Lenovo",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Procesador",
+          "value": "Intel Core I5"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        },
+        {
+          "name": "Tipo Memoria",
+          "value": "DDR5"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 599,
+      "bestPrice": 448.99,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 448.99,
+        "bestPrice30days": 448.99,
+        "bestPrice60days": 448.99,
+        "bestPrice90days": 448.99
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 30000,
+      "visitsLast180Days": 30000,
+      "visitsLast365Days": 30000,
+      "crossedOutPrice": 448.99,
+      "wishListCounter": 106
+    },
+    {
+      "id": "10797785",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1079/10797785/1211-lenovo-ideapad-slim-3-15iah8-intel-core-i5-12450h-8gb-512gb-ssd-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1079/10797785/1211-lenovo-ideapad-slim-3-15iah8-intel-core-i5-12450h-8gb-512gb-ssd-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1079/10797785/1211-lenovo-ideapad-slim-3-15iah8-intel-core-i5-12450h-8gb-512gb-ssd-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "Lenovo IdeaPad Slim 3 15IAH8 Intel Core i5-12450H/8GB/512GB SSD/15.6''",
+      "groupName": "Lenovo IdeaPad Slim 3 15IAH8 Intel Core i5-12450H/8GB/512GB SSD/15.6''",
+      "singleName": "Lenovo IdeaPad Slim 3 15IAH8 Intel Core i5-12450H/8GB/512GB SSD/15.6''",
+      "locale": "es_ES",
+      "offerId": "e54578db-4ea6-4add-8339-4def8b720053",
+      "originalPrice": 488.99,
+      "promotionalPrice": 399,
+      "discount": 27,
+      "discountInCart": 0,
+      "initialStock": 146,
+      "stock": 14,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 2,
+      "ratingAvg": 3,
+      "relevance": 308,
+      "slug": "lenovo-ideapad-slim-3-15iah8-intel-core-i5-12450h-8gb-512gb-ssd-156",
+      "brandName": "Lenovo",
+      "flags": [
+        "freeShipping",
+        "minHistoricalPrice"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Procesador",
+          "value": "Intel Core I5"
+        },
+        {
+          "name": "Memoria Ram",
+          "value": "8 GB RAM"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        },
+        {
+          "name": "Tipo Memoria",
+          "value": "DDR5"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 549,
+      "bestPrice": 399,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 399,
+        "bestPrice30days": 399,
+        "bestPrice60days": 399,
+        "bestPrice90days": 399
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 10000,
+      "visitsLast180Days": 10000,
+      "visitsLast365Days": 10000,
+      "crossedOutPrice": 399,
+      "wishListCounter": 33
+    },
+    {
+      "id": "10753236",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1075/10753236/1121-msi-bravo-15-c7vf-220xes-amd-ryzen-7-7735hs-32gb-1tb-ssd-rtx-4060-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1075/10753236/1121-msi-bravo-15-c7vf-220xes-amd-ryzen-7-7735hs-32gb-1tb-ssd-rtx-4060-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1075/10753236/1121-msi-bravo-15-c7vf-220xes-amd-ryzen-7-7735hs-32gb-1tb-ssd-rtx-4060-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "MSI Bravo 15 C7VF-220XES AMD Ryzen 7 7735HS/32GB/1TB SSD/RTX 4060/15.6\"",
+      "groupName": "MSI Bravo 15 C7VF-220XES AMD Ryzen 7 7735HS/32GB/1TB SSD/RTX 4060/15.6\"",
+      "singleName": "MSI Bravo 15 C7VF-220XES AMD Ryzen 7 7735HS/32GB/1TB SSD/RTX 4060/15.6\"",
+      "locale": "es_ES",
+      "offerId": "c6ee39a7-b738-4d13-ad98-1a7d718faeaa",
+      "originalPrice": 1509,
+      "promotionalPrice": 1149,
+      "discount": 23,
+      "discountInCart": 0,
+      "initialStock": 100,
+      "stock": 45,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 3,
+      "ratingAvg": 5,
+      "relevance": 270,
+      "slug": "msi-bravo-15-c7vf-220xes-amd-ryzen-7-7735hs-32gb-1tb-ssd-rtx-4060-156",
+      "brandName": "MSI",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "32 GB RAM"
+        },
+        {
+          "name": "Tarjeta Gráfica",
+          "value": "GeForce RTX 4060"
+        },
+        {
+          "name": "Procesador",
+          "value": "AMD Ryzen 7"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "1 TB SSD"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": null,
+      "bestPrice": 1142,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 1142,
+        "bestPrice30days": 1142,
+        "bestPrice60days": 1142,
+        "bestPrice90days": 1142
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 4000,
+      "visitsLast180Days": 4000,
+      "visitsLast365Days": 7000,
+      "crossedOutPrice": 1149,
+      "wishListCounter": 43
+    },
+    {
+      "id": "10756041",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1075/10756041/1947-asus-vivobook-go-e1504fa-nj311w-amd-ryzen-5-7520u-16gb-512gb-ssd-radeon-610m-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1075/10756041/1947-asus-vivobook-go-e1504fa-nj311w-amd-ryzen-5-7520u-16gb-512gb-ssd-radeon-610m-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1075/10756041/1947-asus-vivobook-go-e1504fa-nj311w-amd-ryzen-5-7520u-16gb-512gb-ssd-radeon-610m-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "ASUS Vivobook Go E1504FA-NJ311W AMD Ryzen 5 7520U/16GB/512GB SSD/15.6\"",
+      "groupName": "ASUS Vivobook Go E1504FA-NJ311W AMD Ryzen 5 7520U/16GB/512GB SSD/15.6\"",
+      "singleName": "ASUS Vivobook Go E1504FA-NJ311W AMD Ryzen 5 7520U/16GB/512GB SSD/15.6\"",
+      "locale": "es_ES",
+      "offerId": "5e631a27-a8a3-4d36-ae10-ac854e9a3b79",
+      "originalPrice": 749,
+      "promotionalPrice": 549,
+      "discount": 26,
+      "discountInCart": 0,
+      "initialStock": 90,
+      "stock": 68,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 19,
+      "ratingAvg": 4,
+      "relevance": 254,
+      "slug": "asus-vivobook-go-e1504fa-nj311w-amd-ryzen-5-7520u-16gb-512gb-ssd-156",
+      "brandName": "Asus",
+      "flags": [
+        "freeShipping",
+        "gift"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Sistema Operativo",
+          "value": "Windows"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        },
+        {
+          "name": "Procesador",
+          "value": "AMD Ryzen 5"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 749,
+      "bestPrice": 529,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 529,
+        "bestPrice30days": 529,
+        "bestPrice60days": 529,
+        "bestPrice90days": 529
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 10000,
+      "visitsLast180Days": 10000,
+      "visitsLast365Days": 10000,
+      "crossedOutPrice": 529,
+      "wishListCounter": 59
+    },
+    {
+      "id": "10754843",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1075/10754843/1543-dell-vostro-3520-intel-core-i5-1135g7-8-gb-256gb-ssd-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1075/10754843/1543-dell-vostro-3520-intel-core-i5-1135g7-8-gb-256gb-ssd-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1075/10754843/1543-dell-vostro-3520-intel-core-i5-1135g7-8-gb-256gb-ssd-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "Dell Vostro 3520 Intel Core i5-1135G7/8 GB/256GB SSD/15.6\"",
+      "groupName": "Dell Vostro 3520 Intel Core i5-1135G7/8 GB/256GB SSD/15.6\"",
+      "singleName": "Dell Vostro 3520 Intel Core i5-1135G7/8 GB/256GB SSD/15.6\"",
+      "locale": "es_ES",
+      "offerId": "af7fd56b-026d-4241-8c15-dab6ad880af5",
+      "originalPrice": 579,
+      "promotionalPrice": 519,
+      "discount": 25,
+      "discountInCart": 0,
+      "initialStock": 250,
+      "stock": 66,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 7,
+      "ratingAvg": 5,
+      "relevance": 248,
+      "slug": "dell-vostro-3520-intel-core-i5-1135g7-8-gb-256gb-ssd-156",
+      "brandName": "Dell",
+      "flags": [
+        "freeShipping",
+        "gift"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Sistema Operativo",
+          "value": "Windows"
+        },
+        {
+          "name": "Procesador",
+          "value": "Intel Core I5"
+        },
+        {
+          "name": "Memoria Ram",
+          "value": "8 GB RAM"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "256 GB SSD"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 699,
+      "bestPrice": 479,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 479,
+        "bestPrice30days": 479,
+        "bestPrice60days": 479,
+        "bestPrice90days": 479
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 2000,
+      "visitsLast180Days": 2000,
+      "visitsLast365Days": 4000,
+      "crossedOutPrice": 479,
+      "wishListCounter": 17
+    },
+    {
+      "id": "10763610",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1076/10763610/1397-dell-vostro-3520-intel-core-i5-1135g7-8-gb-512gb-ssd-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1076/10763610/1397-dell-vostro-3520-intel-core-i5-1135g7-8-gb-512gb-ssd-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1076/10763610/1397-dell-vostro-3520-intel-core-i5-1135g7-8-gb-512gb-ssd-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "Dell Vostro 3520 Intel Core i5-1135G7/8 GB/512GB SSD/15.6\"",
+      "groupName": "Dell Vostro 3520 Intel Core i5-1135G7/8 GB/512GB SSD/15.6\"",
+      "singleName": "Dell Vostro 3520 Intel Core i5-1135G7/8 GB/512GB SSD/15.6\"",
+      "locale": "es_ES",
+      "offerId": "6f638583-885f-45f3-9a46-877e27c59125",
+      "originalPrice": 628.99,
+      "promotionalPrice": 569,
+      "discount": 26,
+      "discountInCart": 0,
+      "initialStock": 280,
+      "stock": 38,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 3,
+      "ratingAvg": 5,
+      "relevance": 240,
+      "slug": "dell-vostro-3520-intel-core-i5-1135g7-8-gb-512gb-ssd-156",
+      "brandName": "Dell",
+      "flags": [
+        "freeShipping",
+        "gift",
+        "minHistoricalPrice"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Sistema Operativo",
+          "value": "Windows"
+        },
+        {
+          "name": "Procesador",
+          "value": "Intel Core I5"
+        },
+        {
+          "name": "Memoria Ram",
+          "value": "8 GB RAM"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 769,
+      "bestPrice": 569,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 579,
+        "bestPrice30days": 569,
+        "bestPrice60days": 569,
+        "bestPrice90days": 569
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 500,
+      "visitsLast180Days": 500,
+      "visitsLast365Days": 4000,
+      "crossedOutPrice": 569,
+      "wishListCounter": 12
+    },
+    {
+      "id": "10736943",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1073/10736943/1774-asus-vivobook-go-e1504fa-nj644-amd-ryzen-5-7520u-16gb-512gb-ssd-radeon-610m-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1073/10736943/1774-asus-vivobook-go-e1504fa-nj644-amd-ryzen-5-7520u-16gb-512gb-ssd-radeon-610m-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1073/10736943/1774-asus-vivobook-go-e1504fa-nj644-amd-ryzen-5-7520u-16gb-512gb-ssd-radeon-610m-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "ASUS Vivobook Go E1504FA-NJ644 AMD Ryzen 5 7520U/16GB/512GB SSD/Radeon 610M/15.6\"",
+      "groupName": "ASUS Vivobook Go E1504FA-NJ644 AMD Ryzen 5 7520U/16GB/512GB SSD/Radeon 610M/15.6\"",
+      "singleName": "ASUS Vivobook Go E1504FA-NJ644 AMD Ryzen 5 7520U/16GB/512GB SSD/Radeon 610M/15.6\"",
+      "locale": "es_ES",
+      "offerId": "543aa0a6-7282-4b5e-b7a7-e747c5f9c754",
+      "originalPrice": 649,
+      "promotionalPrice": 499,
+      "discount": 23,
+      "discountInCart": 0,
+      "initialStock": 48,
+      "stock": 29,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 33,
+      "ratingAvg": 5,
+      "relevance": 226,
+      "slug": "asus-vivobook-go-e1504fa-nj644-amd-ryzen-5-7520u-16gb-512gb-ssd-radeon-610m-156",
+      "brandName": "Asus",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        },
+        {
+          "name": "Procesador",
+          "value": "AMD Ryzen 5"
+        },
+        {
+          "name": "Tipo Memoria",
+          "value": "DDR5"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": null,
+      "bestPrice": 475,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 475,
+        "bestPrice30days": 475,
+        "bestPrice60days": 475,
+        "bestPrice90days": 475
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 10000,
+      "visitsLast180Days": 10000,
+      "visitsLast365Days": 20000,
+      "crossedOutPrice": 475,
+      "wishListCounter": 86
+    },
+    {
+      "id": "10669846",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1066/10669846/1948-gigabyte-g5-kf-e3es313sd-intel-core-i5-12500h-16gb-512gb-ssd-rtx-4060-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1066/10669846/1948-gigabyte-g5-kf-e3es313sd-intel-core-i5-12500h-16gb-512gb-ssd-rtx-4060-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1066/10669846/1948-gigabyte-g5-kf-e3es313sd-intel-core-i5-12500h-16gb-512gb-ssd-rtx-4060-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "Gigabyte G5 KF-E3ES313SD Intel Core i5-12500H/16GB/512GB SSD/RTX 4060/15.6\"",
+      "groupName": "Gigabyte G5 KF-E3ES313SD Intel Core i5-12500H/16GB/512GB SSD/RTX 4060/15.6\"",
+      "singleName": "Gigabyte G5 KF-E3ES313SD Intel Core i5-12500H/16GB/512GB SSD/RTX 4060/15.6\"",
+      "locale": "es_ES",
+      "offerId": "fc77c8eb-945b-4efd-9845-c7c0a0acc4fc",
+      "originalPrice": 939,
+      "promotionalPrice": 799,
+      "discount": 30,
+      "discountInCart": 0,
+      "initialStock": 50,
+      "stock": 7,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 80,
+      "ratingAvg": 4,
+      "relevance": 224,
+      "slug": "gigabyte-g5-kf-e3es313sd-intel-core-i5-12500h-16gb-512gb-ssd-rtx-4060-156",
+      "brandName": "Gigabyte",
+      "flags": [
+        "freeShipping",
+        "minHistoricalPrice"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Procesador",
+          "value": "Intel Core I5"
+        },
+        {
+          "name": "Tarjeta Gráfica",
+          "value": "GeForce RTX 4060"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 1149,
+      "bestPrice": 799,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 799,
+        "bestPrice30days": 799,
+        "bestPrice60days": 799,
+        "bestPrice90days": 799
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 9000,
+      "visitsLast180Days": 9000,
+      "visitsLast365Days": 10000,
+      "crossedOutPrice": 799,
+      "wishListCounter": 187
+    },
+    {
+      "id": "10639050",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1063/10639050/1584-msi-katana-gf66-12ud-055-intel-core-i7-12700h-16gb-1tb-ssd-rtx3050ti-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1063/10639050/1584-msi-katana-gf66-12ud-055-intel-core-i7-12700h-16gb-1tb-ssd-rtx3050ti-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1063/10639050/1584-msi-katana-gf66-12ud-055-intel-core-i7-12700h-16gb-1tb-ssd-rtx3050ti-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "MSI Katana GF66 12UD-055 Intel Core i7-12700H/16GB/1TB SSD/RTX3050Ti/15.6\"",
+      "groupName": "MSI Katana GF66 12UD-055 Intel Core i7-12700H/16GB/1TB SSD/RTX3050Ti/15.6\"",
+      "singleName": "MSI Katana GF66 12UD-055 Intel Core i7-12700H/16GB/1TB SSD/RTX3050Ti/15.6\"",
+      "locale": "es_ES",
+      "offerId": "f6f5ee25-bce8-4649-8370-0628f56ac168",
+      "originalPrice": 1149,
+      "promotionalPrice": null,
+      "discount": 0,
+      "discountInCart": 0,
+      "initialStock": null,
+      "stock": null,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 9999,
+        "minDeliveryDate": "2023-12-12T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-13T16:57:15+01:00"
+      },
+      "ratingCount": 2,
+      "ratingAvg": 5,
+      "relevance": 217,
+      "slug": "msi-katana-gf66-12ud-055-intel-core-i7-12700h-16gb-1tb-ssd-rtx3050ti-156?refurbished",
+      "brandName": "MSI",
+      "flags": [
+        "refurbished",
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": false,
+      "sellerName": "BazarTech - Outlet de Electrónica",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Procesador",
+          "value": "Intel Core I7"
+        },
+        {
+          "name": "Sistema Operativo",
+          "value": "Windows"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "1 TB SSD"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": null,
+      "bestPrice": null,
+      "bestPriceSummary": {
+        "bestPriceHistorical": null,
+        "bestPrice30days": null,
+        "bestPrice60days": null,
+        "bestPrice90days": null
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 100,
+      "visitsLast180Days": 100,
+      "visitsLast365Days": 500,
+      "crossedOutPrice": null,
+      "wishListCounter": 5
+    },
+    {
+      "id": "10800852",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1080/10800852/1665-hp-15s-fq5029ns-intel-core-i5-i5-1235u-16gb-512gb-ssd-156-opiniones.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1080/10800852/1665-hp-15s-fq5029ns-intel-core-i5-i5-1235u-16gb-512gb-ssd-156-opiniones.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1080/10800852/1665-hp-15s-fq5029ns-intel-core-i5-i5-1235u-16gb-512gb-ssd-156-opiniones.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "HP 15S-FQ5029NS Intel Core i5 i5-1235U/16GB/512GB SSD/15.6\"",
+      "groupName": "HP 15S-FQ5029NS Intel Core i5 i5-1235U/16GB/512GB SSD/15.6\"",
+      "singleName": "HP 15S-FQ5029NS Intel Core i5 i5-1235U/16GB/512GB SSD/15.6\"",
+      "locale": "es_ES",
+      "offerId": "1f82f3d1-fa1b-4688-b7e2-532f7e9cacbd",
+      "originalPrice": 640.05,
+      "promotionalPrice": null,
+      "discount": 0,
+      "discountInCart": 0,
+      "initialStock": null,
+      "stock": null,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 9999,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 2,
+      "ratingAvg": 4,
+      "relevance": 213,
+      "slug": "hp-15s-fq5029ns-intel-core-i5-i5-1235u-16gb-512gb-ssd-156",
+      "brandName": "HP",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": false,
+      "sellerName": "kiwiku",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Sistema Operativo",
+          "value": "Windows"
+        },
+        {
+          "name": "Procesador",
+          "value": "Intel Core I5"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": null,
+      "bestPrice": null,
+      "bestPriceSummary": {
+        "bestPriceHistorical": null,
+        "bestPrice30days": null,
+        "bestPrice60days": null,
+        "bestPrice90days": null
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 1000,
+      "visitsLast180Days": 1000,
+      "visitsLast365Days": 1000,
+      "crossedOutPrice": null,
+      "wishListCounter": 4
+    },
+    {
+      "id": "10664846",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1066/10664846/1116-lenovo-v15-g3-aba-amd-ryzen-7-5825u-16gb-512gb-ssd-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1066/10664846/1116-lenovo-v15-g3-aba-amd-ryzen-7-5825u-16gb-512gb-ssd-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1066/10664846/1116-lenovo-v15-g3-aba-amd-ryzen-7-5825u-16gb-512gb-ssd-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "Lenovo V15 G3 ABA AMD Ryzen 7 5825U/16GB/512GB SSD/15.6\"",
+      "groupName": "Lenovo V15 G3 ABA AMD Ryzen 7 5825U/16GB/512GB SSD/15.6\"",
+      "singleName": "Lenovo V15 G3 ABA AMD Ryzen 7 5825U/16GB/512GB SSD/15.6\"",
+      "locale": "es_ES",
+      "offerId": "52216309-efd9-4d84-9673-3dc9171f0eb1",
+      "originalPrice": 619.99,
+      "promotionalPrice": null,
+      "discount": 0,
+      "discountInCart": 0,
+      "initialStock": null,
+      "stock": null,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 9999,
+        "minDeliveryDate": "2023-12-12T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-12T16:57:15+01:00"
+      },
+      "ratingCount": 8,
+      "ratingAvg": 5,
+      "relevance": 213,
+      "slug": "lenovo-v15-g3-aba-amd-ryzen-7-5825u-16gb-512gb-ssd-156",
+      "brandName": "Lenovo",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": false,
+      "sellerName": "Eden Technology",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Sistema Operativo",
+          "value": "Windows"
+        },
+        {
+          "name": "Procesador",
+          "value": "AMD Ryzen 7"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": null,
+      "bestPrice": null,
+      "bestPriceSummary": {
+        "bestPriceHistorical": null,
+        "bestPrice30days": null,
+        "bestPrice60days": null,
+        "bestPrice90days": null
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 500,
+      "visitsLast180Days": 500,
+      "visitsLast365Days": 3000,
+      "crossedOutPrice": null,
+      "wishListCounter": 38
+    },
+    {
+      "id": "10753244",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1075/10753244/1670-msi-cyborg-15-a13ve-472xes-intel-core-i7-13620h-16gb-1tb-ssd-rtx-4050-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1075/10753244/1670-msi-cyborg-15-a13ve-472xes-intel-core-i7-13620h-16gb-1tb-ssd-rtx-4050-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1075/10753244/1670-msi-cyborg-15-a13ve-472xes-intel-core-i7-13620h-16gb-1tb-ssd-rtx-4050-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "MSI Cyborg 15 A13VE-472XES Intel Core i7-13620H/16GB/1TB SSD/RTX 4050/15.6\"",
+      "groupName": "MSI Cyborg 15 A13VE-472XES Intel Core i7-13620H/16GB/1TB SSD/RTX 4050/15.6\"",
+      "singleName": "MSI Cyborg 15 A13VE-472XES Intel Core i7-13620H/16GB/1TB SSD/RTX 4050/15.6\"",
+      "locale": "es_ES",
+      "offerId": "86b0ec73-1b70-4c97-b7db-52fb91a69864",
+      "originalPrice": 1379,
+      "promotionalPrice": 999,
+      "discount": 27,
+      "discountInCart": 0,
+      "initialStock": 160,
+      "stock": 71,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 6,
+      "ratingAvg": 5,
+      "relevance": 210,
+      "slug": "msi-cyborg-15-a13ve-472xes-intel-core-i7-13620h-16gb-1tb-ssd-rtx-4050-156",
+      "brandName": "MSI",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Procesador",
+          "value": "Intel Core I7"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "1 TB SSD"
+        },
+        {
+          "name": "Tarjeta Gráfica",
+          "value": "GeForce RTX 4050"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": null,
+      "bestPrice": 969,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 969,
+        "bestPrice30days": 969,
+        "bestPrice60days": 969,
+        "bestPrice90days": 969
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 7000,
+      "visitsLast180Days": 7000,
+      "visitsLast365Days": 9000,
+      "crossedOutPrice": 969,
+      "wishListCounter": 47
+    },
+    {
+      "id": "10792741",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1079/10792741/1255-acer-aspire-3-a315-58-587e-intel-core-i5-1135g7-16gb-512gb-ssd-156.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1079/10792741/1255-acer-aspire-3-a315-58-587e-intel-core-i5-1135g7-16gb-512gb-ssd-156.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1079/10792741/1255-acer-aspire-3-a315-58-587e-intel-core-i5-1135g7-16gb-512gb-ssd-156.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "Acer Aspire 3 A315-58-587E Intel Core i5-1135G7/16GB/512GB SSD/15.6\"",
+      "groupName": "Acer Aspire 3 A315-58-587E Intel Core i5-1135G7/16GB/512GB SSD/15.6\"",
+      "singleName": "Acer Aspire 3 A315-58-587E Intel Core i5-1135G7/16GB/512GB SSD/15.6\"",
+      "locale": "es_ES",
+      "offerId": "028d4802-8742-4c33-90d1-99e31b3c0539",
+      "originalPrice": 599,
+      "promotionalPrice": 449,
+      "discount": 25,
+      "discountInCart": 0,
+      "initialStock": 58,
+      "stock": 31,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 1,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-11T16:57:15+01:00"
+      },
+      "ratingCount": 12,
+      "ratingAvg": 5,
+      "relevance": 209,
+      "slug": "acer-aspire-3-a315-58-587e-intel-core-i5-1135g7-16gb-512gb-ssd-156",
+      "brandName": "Acer",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Memoria Ram",
+          "value": "16GB RAM"
+        },
+        {
+          "name": "Procesador",
+          "value": "Intel Core I5"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "512 GB SSD"
+        },
+        {
+          "name": "Conexiones",
+          "value": "RJ-45 / HDMI / USB 3.2"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 599,
+      "bestPrice": 429,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 429,
+        "bestPrice30days": 429,
+        "bestPrice60days": 429,
+        "bestPrice90days": 429
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 10000,
+      "visitsLast180Days": 10000,
+      "visitsLast365Days": 10000,
+      "crossedOutPrice": 429,
+      "wishListCounter": 51
+    },
+    {
+      "id": "10745666",
+      "images": {
+        "small": {
+          "path": "https://thumb.pccomponentes.com/w-140-140/articles/1074/10745666/1260-msi-pulse-17-b13vfk-687xes-intel-core-i7-13700h-32gb-1tb-ssd-rtx-4060-173.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "medium": {
+          "path": "https://thumb.pccomponentes.com/w-300-300/articles/1074/10745666/1260-msi-pulse-17-b13vfk-687xes-intel-core-i7-13700h-32gb-1tb-ssd-rtx-4060-173.jpg",
+          "width": 300,
+          "height": 300
+        },
+        "large": {
+          "path": "https://thumb.pccomponentes.com/w-530-530/articles/1074/10745666/1260-msi-pulse-17-b13vfk-687xes-intel-core-i7-13700h-32gb-1tb-ssd-rtx-4060-173.jpg",
+          "width": 530,
+          "height": 530
+        }
+      },
+      "name": "MSI Pulse 17 B13VFK-687XES Intel Core i7-13700H/32GB/1TB SSD/RTX 4060/17.3\"",
+      "groupName": "MSI Pulse 17 B13VFK-687XES Intel Core i7-13700H/32GB/1TB SSD/RTX 4060/17.3\"",
+      "singleName": "MSI Pulse 17 B13VFK-687XES Intel Core i7-13700H/32GB/1TB SSD/RTX 4060/17.3\"",
+      "locale": "es_ES",
+      "offerId": "de22e3fa-4b58-4efd-84b4-8e38bfb35155",
+      "originalPrice": 1748.99,
+      "promotionalPrice": 1499,
+      "discount": 14,
+      "discountInCart": 0,
+      "initialStock": 100,
+      "stock": 67,
+      "delivery": {
+        "type": "PHYSICAL",
+        "availabilityCode": 2,
+        "minDeliveryDate": "2023-12-11T16:57:15+01:00",
+        "maxDeliveryDate": "2023-12-12T16:57:15+01:00"
+      },
+      "ratingCount": 47,
+      "ratingAvg": 5,
+      "relevance": 207,
+      "slug": "msi-pulse-17-b13vfk-687xes-intel-core-i7-13700h-32gb-1tb-ssd-rtx-4060-173",
+      "brandName": "MSI",
+      "flags": [
+        "freeShipping"
+      ],
+      "familyName": null,
+      "hideStockBar": false,
+      "isPcCom": false,
+      "isPCC": true,
+      "sellerName": "PcComponentes",
+      "mainCategory": {
+        "name": "Portátiles",
+        "slug": "portatiles",
+        "legacyId": "1115",
+        "display": [],
+        "rangeCode": null,
+        "entity": "category",
+        "id": "caf4cbb7-1dfb-40a9-9657-209f6e784e66"
+      },
+      "variants": [],
+      "isInPriorityCampaign": false,
+      "attributes": [],
+      "topAttributes": [
+        {
+          "name": "Procesador",
+          "value": "Intel Core I7"
+        },
+        {
+          "name": "Memoria Ram",
+          "value": "32 GB RAM"
+        },
+        {
+          "name": "Tarjeta Gráfica",
+          "value": "GeForce RTX 4060"
+        },
+        {
+          "name": "Almacenamiento SSD",
+          "value": "1 TB SSD"
+        }
+      ],
+      "recommendedAttributes": [],
+      "leadComment": null,
+      "recommendedPrice": 1749,
+      "bestPrice": 1349,
+      "bestPriceSummary": {
+        "bestPriceHistorical": 1349,
+        "bestPrice30days": 1349,
+        "bestPrice60days": 1349,
+        "bestPrice90days": 1349
+      },
+      "campaignPromotionExpirationDate": null,
+      "campaignPromotionHierarchy": null,
+      "visitsLast30Days": 10000,
+      "visitsLast180Days": 10000,
+      "visitsLast365Days": 30000,
+      "crossedOutPrice": 1349,
+      "wishListCounter": 184
+    }
+  ]
+}

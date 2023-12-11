@@ -5,116 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc1ac7fc-75a5-4726-9aa2-31f6706c19e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/AD2023-24-01.01eval-Ficheros.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/0/0/007b388482500b1c5ac030bbc819e38d3cfd51c7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/0/c/0c0478bf90b0e17b48112387044fe75c39fa3881" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/1/1/11532bc30466921b192ef43b2c1d8dc6156f7339" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/1/e/1ef0e91bda3ee762e9597f1311eebef7d31b2542" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/3/3/338b73f17e706699cdd77b1528c969b0d814601d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/4/d/4d07119c0bf2615ab301f8811069cb8a2a5112a0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/7/3/73f5e22dd0c47cd3541ae6753d5f2dcfbaedf6c3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/7/a/7a6b5252c63c1d41c089429b7dd92506383464d5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/9/7/9783836c8df41270b7e2bbd8e3c420747a172e25" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/9/8/98b6827602e593769b2e38eacdbd87e9d0a45390" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/9/8/98fce44bee7c4f51f5a3e67c9eade3e9f3bd2b5c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/9/c/9cde781d669694debc783aca2e7562cb9b4df2e2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/a/a/aa5846226605fc44d800a43ed15331564525edbd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/b/0/b0de292cf9942883a167c433a67c0d9cd23d9d69" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/b/5/b5e3c7acd6a97928e0b960dc418bf1db07a56375" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/c/c/cc70d568b7b96767d275641b8344b18a40d0e18f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/e/8/e8236a0acf94a7eb9dfd394fd9851c9721d576f0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/e/c/ecff0c800783cceb5f428a258e3ce1ccd27bdf50" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/f/5/f558e9f1c9e440e45935fb564556716982b6e210" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/0/0/007b388482500b1c5ac030bbc819e38d3cfd51c7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/0/c/0c0478bf90b0e17b48112387044fe75c39fa3881" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/1/1/11532bc30466921b192ef43b2c1d8dc6156f7339" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/1/e/1ef0e91bda3ee762e9597f1311eebef7d31b2542" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/3/3/338b73f17e706699cdd77b1528c969b0d814601d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/4/d/4d07119c0bf2615ab301f8811069cb8a2a5112a0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/7/3/73f5e22dd0c47cd3541ae6753d5f2dcfbaedf6c3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/7/a/7a6b5252c63c1d41c089429b7dd92506383464d5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/9/7/9783836c8df41270b7e2bbd8e3c420747a172e25" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/9/8/98b6827602e593769b2e38eacdbd87e9d0a45390" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/9/8/98fce44bee7c4f51f5a3e67c9eade3e9f3bd2b5c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/9/c/9cde781d669694debc783aca2e7562cb9b4df2e2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/a/a/aa5846226605fc44d800a43ed15331564525edbd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/b/0/b0de292cf9942883a167c433a67c0d9cd23d9d69" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/b/5/b5e3c7acd6a97928e0b960dc418bf1db07a56375" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/c/c/cc70d568b7b96767d275641b8344b18a40d0e18f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/e/8/e8236a0acf94a7eb9dfd394fd9851c9721d576f0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/e/c/ecff0c800783cceb5f428a258e3ce1ccd27bdf50" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/f/5/f558e9f1c9e440e45935fb564556716982b6e210" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/diagramaClasesNBA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/diagramaClasesNBA.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/resultados.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/gson/AppResultados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/gson/Conferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/gson/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/gson/Equipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/gson/EquipoTypeAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/gson/IResultadosDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/gson/Partido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/gson/PartidoDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/gson/Resultados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/javanio2/AppArchivosJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/json/equipos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/java/local/exame/ad/ficheros/json/partidos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/src/main/resources/partidos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/target/classes/local/exame/ad/ficheros/gson/AppResultados.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/target/classes/local/exame/ad/ficheros/gson/Conferencia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/target/classes/local/exame/ad/ficheros/gson/Division.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/target/classes/local/exame/ad/ficheros/gson/Equipo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/target/classes/local/exame/ad/ficheros/gson/EquipoTypeAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/target/classes/local/exame/ad/ficheros/gson/IResultadosDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/target/classes/local/exame/ad/ficheros/gson/Partido.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/target/classes/local/exame/ad/ficheros/gson/PartidoDeserializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/target/classes/local/exame/ad/ficheros/gson/Resultados.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/target/classes/local/exame/ad/ficheros/javanio2/AppArchivosJava.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD20231116Ficheros/AD20231116Ficheros/target/classes/partidos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/archivo.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/equipos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/partidos.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/persona.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/archivo.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/AppResultados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/Conferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/Equipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/EquipoTypeAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/IResultadosDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/Partido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/PartidoDeserializaer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/Resultados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/JsonConGson/JsonReaderEjemplo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/JsonConGson/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/JsonConGson/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/NIO/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/NIO/FicherosNIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/SerializacionYDeserializacion/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/SerializacionYDeserializacion/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/SerializacionYDeserializacion/Grupo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/org/example/Ejercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/org/example/Ejercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/org/example/Ejercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/org/example/Ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/destino.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/org/example/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/org/example/Ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/org/example/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/org/example/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../REPASO_UNIDAD_1/RepasoExamen/ordenadores.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../REPASO_UNIDAD_1/RepasoExamen/src/main/java/org/example/Ordenadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../REPASO_UNIDAD_1/RepasoExamen/src/main/java/org/example/TypeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/parte1/AppArchivosJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD02/Ejercicios/Ejercicio1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD02/Ejercicios/Ejercicio1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD02/Ejercicios/Ejercicio1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD02/Ejercicios/Ejercicio1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD02/Ejercicios/Ejercicio1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio2/src/main/java/org/example/AppBiblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio2/src/main/java/org/example/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio2/src/main/java/org/example/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio2/src/main/java/org/example/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio2/src/main/java/org/example/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio_1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio_1/src/main/java/org/example/AppBiblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio_1/src/main/java/org/example/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio_1/src/main/java/org/example/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio_1/src/main/java/org/example/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/Ejercicio_1_Gestion_Biblioteca/Ejercicio_1/src/main/java/org/example/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/REPASO_EJERCICIO_1/RepasoEjercicio1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/REPASO_EJERCICIO_1/RepasoEjercicio1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/REPASO_EJERCICIO_1/RepasoEjercicio1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/REPASO_EJERCICIO_1/RepasoEjercicio1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/REPASO_EJERCICIO_1/RepasoEjercicio1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/REPASO_EJERCICIO_1/RepasoEjercicio1/src/main/java/org/example/AppBiblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/REPASO_EJERCICIO_1/RepasoEjercicio1/src/main/java/org/example/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/REPASO_EJERCICIO_1/RepasoEjercicio1/src/main/java/org/example/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/REPASO_EJERCICIO_1/RepasoEjercicio1/src/main/java/org/example/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UD03/REPASO_EJERCICIO_1/RepasoEjercicio1/src/main/java/org/example/DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/AppResultados.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/AppResultados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/Partido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/Partido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/PartidoDeserializaer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/PartidoDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/Resultados.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/Resultados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/ResultadosDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad1.1/EjerciciosRepasoIO/RepasoIO/src/main/java/ImplementacionExamenParcial/ResultadosDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UD02/2.03.02Conexiones a bases de datos/Ejemplo_Conexion_BaseDatos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UD02/2.03.02Conexiones a bases de datos/Ejemplo_Conexion_BaseDatos/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +60,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2YpExzMjrCikbNiiyYqXvG5JxA8" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -135,10 +74,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/DAM 2/AD/ACCESO_A_DATOS/UD01/EXAMEN PARCIAL",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/DAM 2/AD/ACCESO_A_DATOS/UD01/unidad1.1/EjerciciosRepasoIO/RepasoIO",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -146,6 +87,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

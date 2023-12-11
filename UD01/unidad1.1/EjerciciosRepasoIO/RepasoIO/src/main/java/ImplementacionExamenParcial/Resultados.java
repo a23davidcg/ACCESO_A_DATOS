@@ -41,6 +41,7 @@ public class Resultados implements java.io.Serializable {
     }
 
     public void sort(){
+
         Collections.sort(partidos);
     }
 

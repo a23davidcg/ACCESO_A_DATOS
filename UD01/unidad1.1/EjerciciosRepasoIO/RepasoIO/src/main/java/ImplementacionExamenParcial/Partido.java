@@ -54,6 +54,7 @@ public class Partido implements Comparable<Partido>, Serializable {
     public Partido(int idPartido, LocalDate fecha, Equipo equipoLocal, int puntosLocal,
                    int periodo, boolean postemporada, int temporada,
                    String estado, String tiempo, Equipo equipoVisitante, int puntosVisitante) {
+
         this.idPartido = idPartido;
         this.fecha = fecha;
         this.equipoLocal = equipoLocal;
